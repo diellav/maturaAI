@@ -1,0 +1,260 @@
+{
+  "subject": "Gjuhë Shqipe",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "pegi_albanian12",
+      "title": "Libër për mësuesin · Gjuha shqipe dhe letërsia 12",
+      "publisher": "Botime Pegi, dega në Kosovë",
+      "grade": 12,
+      "year": 2022,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/gjuha-shqipe-dhe-letersia-12.pdf",
+      "subjects": [
+        "Gjuhë Shqipe"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Cover and lesson headings say XII; p. 2 has a conflicting class-5 template line. Grade follows title and actual lessons (e.g. p. 130). Copyright Kosovo branch p. 3; approval placeholders do not establish official status.",
+      "metadataPages": [
+        2,
+        3,
+        130
+      ],
+      "pageCount": 157,
+      "sha256": "dcaae7bc2106d82f53572d225c63c32c2454f263818a72922709acfc8d485e01",
+      "parseStatus": "extracted"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "sq_pesevargesh",
+      "topic": "Si ndërtohet një pesëvargësh",
+      "subtopic": "Si ndërtohet një pesëvargësh",
+      "title": "Si ndërtohet një pesëvargësh",
+      "content": "Në ushtrimin e pesëvargëshit, rreshti i parë ka një emër; i dyti dy mbiemra; i treti tri folje; i katërti një fjali me katër fjalë; i pesti një sinonim. Pas shkrimit, nxënësit lexojnë dhe ndajnë punimet e tyre. Kjo është skema e ushtrimit krijues në këtë material mësimor.",
+      "keywords": [
+        "pesëvargësh",
+        "ndërtohet",
+        "rresht",
+        "krijues"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 130,
+      "sourceLocator": "PDF page 130",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "study-method",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Si ndërtohet një pesëvargësh?"
+    },
+    {
+      "id": "sq_registers",
+      "topic": "Regjistrat e gjuhës",
+      "subtopic": "Regjistrat e gjuhës",
+      "title": "Regjistrat e gjuhës",
+      "content": "Materiali rendit regjistrin bisedor, të shkujdesur dhe libror. Ushtrimi kërkon dallimin e situatave të përdorimit të tyre dhe dhënien e shembujve nga nxënësit; faqja nuk jep një përkufizim të plotë të secilit regjistër.",
+      "keywords": [
+        "regjistrat",
+        "gjuhës",
+        "bisedor",
+        "libror"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 110,
+      "sourceLocator": "PDF page 110",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Cilat regjistra të gjuhës renditen në material?"
+    },
+    {
+      "id": "sq_metaphor_scope",
+      "topic": "Metafora dhe alegoria si tema mësimore",
+      "subtopic": "Metafora dhe alegoria si tema mësimore",
+      "title": "Metafora dhe alegoria si tema mësimore",
+      "content": "Plani mësimor për praninë dhe mospraninë e figurës përfshin përdorimin e alegorisë dhe metaforës për fshehjen e domethënies, si dhe zgjedhjen e fjalëve sipas kontekstit. Këtu jepen rezultate mësimore, jo përkufizim ose shembull i plotë i metaforës.",
+      "keywords": [
+        "metafor",
+        "alegori",
+        "figurë"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 94,
+      "sourceLocator": "PDF page 94",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page."
+    },
+    {
+      "id": "sq_paragraph",
+      "topic": "Paragrafi dhe koherenca e tekstit",
+      "subtopic": "Paragrafi dhe koherenca e tekstit",
+      "title": "Paragrafi dhe koherenca e tekstit",
+      "content": "Uniteti kuptimor i paragrafit ndihmon koherencën dhe rrjedhshmërinë e tekstit. Gjatë ndërtimit të tekstit, duhet të shqyrtosh si lidhet paragrafi me tërësinë dhe si ruhet vazhdimësia e ideve. Këto janë marrëdhëniet që theksohen në rezultatet dhe kriteret e mësimit për paragrafin.",
+      "keywords": [
+        "paragraf",
+        "paragrafi",
+        "koherencë",
+        "unitet"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 58,
+      "sourceLocator": "PDF page 58",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Pse është i rëndësishëm paragrafi në tekst?"
+    },
+    {
+      "id": "sq_context",
+      "topic": "Kuptimi i fjalës dhe konteksti",
+      "subtopic": "Kuptimi i fjalës dhe konteksti",
+      "title": "Kuptimi i fjalës dhe konteksti",
+      "content": "Kuptimi dhe përdorimi i fjalëve lidhen me kontekstin e thënies. E njëjta fjali mund të përdoret në situata të ndryshme komunikimi; për ta analizuar, shiko situatën ku thuhet dhe mënyrën si përshtatet shprehja. Mësimi kërkon pikërisht krahasimin e përdorimeve sipas kontekstit.",
+      "keywords": [
+        "kontekst",
+        "kuptimi",
+        "fjalës",
+        "situatë"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 80,
+      "sourceLocator": "PDF page 80",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si lidhet kuptimi i fjalës me kontekstin?"
+    },
+    {
+      "id": "sq_directed_reading",
+      "topic": "Leximi i drejtuar me ndalesa",
+      "subtopic": "Leximi i drejtuar me ndalesa",
+      "title": "Leximi i drejtuar me ndalesa",
+      "content": "Në leximin e drejtuar, lexo një pjesë të tekstit dhe ndalu për t’iu përgjigjur pyetjeve për atë pjesë. Parashiko çfarë mund të ndodhë më tej, pastaj vazhdo leximin dhe krahaso parashikimin me zhvillimin real. Në fund, shqyrto nëse përfundimi ishte ai që prisje dhe argumento mendimin me tekstin.",
+      "keywords": [
+        "lexim i drejtuar",
+        "ndalesa",
+        "DRTA",
+        "parashikim"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 34,
+      "sourceLocator": "PDF page 34",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "study-method",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si bëhet leximi i drejtuar me ndalesa?"
+    },
+    {
+      "id": "sq_essay_practice",
+      "topic": "Ushtrimi i shkrimit të esesë",
+      "subtopic": "Ushtrimi i shkrimit të esesë",
+      "title": "Ushtrimi i shkrimit të esesë",
+      "content": "Për ta ushtruar shkrimin e esesë, zgjidh një nga temat e propozuara dhe shkruaj individualisht. Lexoje shkrimin para të tjerëve; ata mbajnë shënime dhe bëjnë pyetje për idetë e tua. Përgjigju pyetjeve dhe krahaso idetë me ato të grupit. Kjo metodë lidh shkrimin argumentues me diskutimin kritik të punimit.",
+      "keywords": [
+        "ese",
+        "esesë",
+        "shkrim",
+        "ushtrim"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 92,
+      "sourceLocator": "PDF page 92",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "study-method",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si mund ta ushtroj shkrimin e një eseje?"
+    },
+    {
+      "id": "sq_double_journal",
+      "topic": "Ditari dypjesësh për analizën e tekstit",
+      "subtopic": "Ditari dypjesësh për analizën e tekstit",
+      "title": "Ditari dypjesësh për analizën e tekstit",
+      "content": "Lexoje tekstin në tërësi, pastaj ndaje fletën në dy kolona. Në njërën shëno pjesën që të ka bërë përshtypje; në tjetrën shkruaj komentin tënd për të. Krahasoji komentet me të tjerët dhe shpjego pse e zgjodhe atë pjesë, çfarë të bëri të mendohesh dhe çfarë do të mbash mend prej saj.",
+      "keywords": [
+        "ditar",
+        "ditari",
+        "dypjesësh",
+        "koment"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 72,
+      "sourceLocator": "PDF page 72",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "study-method",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si përdoret ditari dypjesësh?"
+    },
+    {
+      "id": "sq_kafka",
+      "topic": "Kafka: Para ligjit",
+      "subtopic": "Kafka: Para ligjit",
+      "title": "Kafka: Para ligjit",
+      "content": "Para ligjit është tregim i Franc Kafkës. Në orientimin për analizën e tij, materiali veçon parabolën dhe simbolikën, si dhe figurat e fshatarit dhe rojtarit. Leximi propozon shqyrtimin e rolit të personazheve dhe të përfundimit të ngjarjes; këtu nuk jepet një përmbledhje e plotë e subjektit.",
+      "keywords": [
+        "kafka",
+        "kafkës",
+        "para ligjit",
+        "fshatari",
+        "rojtari"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 34,
+      "sourceLocator": "PDF page 34",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Kush e shkroi Para ligjit dhe çfarë shqyrtohet në analizë?"
+    },
+    {
+      "id": "sq_marquez",
+      "topic": "Markez: Njëqind vjet vetmi",
+      "subtopic": "Markez: Njëqind vjet vetmi",
+      "title": "Markez: Njëqind vjet vetmi",
+      "content": "Njëqind vjet vetmi është romani i Markezit që trajtohet në këtë njësi mësimore. Termat udhëzues për analizën janë realizmi magjik, vetmia, fati, mungesa e dashurisë dhe pandjeshmëria. Këta japin drejtimin e analizës; nuk zëvendësojnë leximin ose përmbledhjen e plotë të romanit.",
+      "keywords": [
+        "markez",
+        "njëqind vjet vetmi",
+        "realizmi magjik"
+      ],
+      "sourceId": "pegi_albanian12",
+      "sourcePage": 89,
+      "sourceLocator": "PDF page 89",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Cilat tema shqyrtohen te Njëqind vjet vetmi?"
+    }
+  ]
+}

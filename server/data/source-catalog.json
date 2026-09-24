@@ -1,0 +1,234 @@
+{
+  "reviewedAt": "2026-09-24",
+  "pageConvention": "Physical PDF page (1-based); DOCX uses table/paragraph locators, never invented pages.",
+  "sources": [
+    {
+      "id": "pegi_math12",
+      "title": "Libër për mësuesin · Matematika 12",
+      "publisher": "Botime Pegi, dega në Kosovë",
+      "grade": 12,
+      "year": 2022,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/matematika-12.pdf",
+      "subjects": [
+        "Matematikë"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title and Kosovo branch copyright, PDF pp. 2–3. Approval fields contain placeholders; no government authorship claimed.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 485,
+      "sha256": "68cf5965bf2af05645c8e6e472521911597f727def824a49a20840261d45f188",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "pegi_albanian12",
+      "title": "Libër për mësuesin · Gjuha shqipe dhe letërsia 12",
+      "publisher": "Botime Pegi, dega në Kosovë",
+      "grade": 12,
+      "year": 2022,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/gjuha-shqipe-dhe-letersia-12.pdf",
+      "subjects": [
+        "Gjuhë Shqipe"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Cover and lesson headings say XII; p. 2 has a conflicting class-5 template line. Grade follows title and actual lessons (e.g. p. 130). Copyright Kosovo branch p. 3; approval placeholders do not establish official status.",
+      "metadataPages": [
+        2,
+        3,
+        130
+      ],
+      "pageCount": 157,
+      "sha256": "dcaae7bc2106d82f53572d225c63c32c2454f263818a72922709acfc8d485e01",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "albas_bio11",
+      "title": "Libër për mësuesin · Biologji 11",
+      "publisher": "Albas",
+      "grade": 11,
+      "year": 2019,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/liber-mesuesi-biologji-11-ks.pdf",
+      "subjects": [
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title p. 2; Albas copyright 2019 and Kosovo ministry school-use decision dated 09.07.2019 p. 3. Approval does not make Albas a government publisher.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 164,
+      "sha256": "ab954dc666e4c035211453537c6e19be69f55942cd8ceeda6d4a1438c3c533b6",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "albas_history11",
+      "title": "Libër për mësuesin · Histori 11",
+      "publisher": "Albas",
+      "grade": 11,
+      "year": 2019,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/liber-mesuesi-histori-11-ks.pdf",
+      "subjects": [
+        "Histori"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title p. 2; Albas copyright 2019 and Kosovo ministry school-use decision dated 09.07.2019 p. 3. Approval does not make Albas a government publisher.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 162,
+      "sha256": "b9ac766fa8247a298601c6276f91c65ec1d93e314bd28b7cde2588c11d22ff9c",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "albas_chem11",
+      "title": "Libër për mësuesin · Kimi 11",
+      "publisher": "Albas",
+      "grade": 11,
+      "year": 2019,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/liber-mesuesi-kimi-11-ks.pdf",
+      "subjects": [
+        "Kimi"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title p. 2; Albas copyright 2019 and Kosovo ministry school-use decision dated 09.07.2019 p. 3. Approval does not make Albas a government publisher.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 234,
+      "sha256": "5ba184ecc5defc8099acc4dda14962d9ca4720a240d1ac3372538f22d5b98e22",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "kosovo_core2016",
+      "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+      "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+      "grade": null,
+      "year": 2016,
+      "sourceType": "official-kosovo-curriculum",
+      "url": null,
+      "originalFile": "source/korniza-berthame-3-final.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Republic of Kosovo/MASHT, revised August 2016, gymnasium classes X, XI, XII on cover. Scope evidence, not current exam guarantee.",
+      "metadataPages": [
+        1
+      ],
+      "pageCount": 126,
+      "sha256": "79447f76f9bb34c784ac8370570cf4b5a6411c530878b9f5f6ec4ebaaf1991fe",
+      "parseStatus": "extracted",
+      "grades": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "kosovo_matura2014",
+      "title": "Programi orientues dhe modele të pyetjeve · Matura 2014",
+      "publisher": "MASHT · Divizioni për Vlerësim, Standarde dhe Monitorim",
+      "grade": null,
+      "year": 2014,
+      "sourceType": "official-kosovo-matura-historical",
+      "url": null,
+      "originalFile": "source/programi-orientues-dhe-modele-te-pyetje-per-provimin-e-matures-shteteror_1.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Cover explicitly says Matura 2014, Prishtinë 2014. Historical scope only; multiple-choice questions are excluded from conceptual chunks.",
+      "metadataPages": [
+        1,
+        4
+      ],
+      "pageCount": 271,
+      "sha256": "239382ef7dce1377838c762e07377e4514e345c9f87c6f497b5469e01a1ea5a5",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "unclassified_geo_plan",
+      "title": "Plani vjetor · Gjeografi",
+      "publisher": null,
+      "grade": null,
+      "year": null,
+      "sourceType": "unclassified",
+      "url": null,
+      "originalFile": "source/Gjeografi-12-Plani-vjetor-2022-2023-9gubwj.docx",
+      "subjects": [
+        "Gjeografi"
+      ],
+      "kosovoSpecific": false,
+      "metadataEvidence": "Paragraphs identify Geography but conflict: filename suggests XII; repeated internal headings say XI (e.g. Paragraph 8). Publisher and publication year not established; filename year not treated as publication evidence. Not promoted.",
+      "metadataPages": [],
+      "pageCount": null,
+      "sha256": "93f004dd094f91de47873c05a7e2667ced2e90f9eb3e1236ad57413f1e76a3ba",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "unclassified_tik_plan",
+      "title": "Plani vjetor · TIK",
+      "publisher": null,
+      "grade": 12,
+      "year": null,
+      "sourceType": "unclassified",
+      "url": null,
+      "originalFile": "source/tik-12-natyror-ks-plan-ctq7ik.docx",
+      "subjects": [
+        "TIK"
+      ],
+      "kosovoSpecific": false,
+      "metadataEvidence": "Tables 2–5 row 5 identify class XII. No explicit publisher, date or Kosovo institution found. Filename ks is not proof of provenance. Not promoted.",
+      "metadataPages": [],
+      "pageCount": null,
+      "sha256": "b95e76ea3697a1f8fd363a187336beb41b4e9493def23a03774de765954882a8",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "source_readme",
+      "title": "Raw-source repository instructions",
+      "publisher": null,
+      "grade": null,
+      "year": null,
+      "sourceType": "unclassified",
+      "url": null,
+      "originalFile": "source/README.md",
+      "subjects": [],
+      "kosovoSpecific": false,
+      "metadataEvidence": "Repository instructions, not academic source material. Preserved unchanged.",
+      "metadataPages": [],
+      "pageCount": null,
+      "sha256": "4e6bf8e771861ee6ccda1138c5fde1b5e90d4a370e117832d9a17af333b4a318",
+      "parseStatus": "not-ingested"
+    }
+  ]
+}

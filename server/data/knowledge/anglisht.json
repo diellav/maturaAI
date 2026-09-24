@@ -1,0 +1,53 @@
+{
+  "subject": "Anglisht",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "reference_en_present_perfect",
+      "title": "British Council LearnEnglish · Present perfect",
+      "publisher": "British Council",
+      "grade": null,
+      "year": null,
+      "sourceType": "trusted-external-reference",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect",
+      "originalFile": null,
+      "subjects": [
+        "Anglisht"
+      ],
+      "kosovoSpecific": false,
+      "pageCount": null,
+      "metadataEvidence": "Migrated existing reviewed reference; original review retained. Not a Kosovo curriculum or exam document."
+    }
+  ],
+  "chunks": [
+    {
+      "id": "en_present_perfect",
+      "topic": "Present Perfect",
+      "title": "Present Perfect: forma dhe përdorimi",
+      "content": "Present Perfect formohet me have/has + past participle. Përdoret për përvoja deri tani, situata që filluan në të kaluarën dhe vazhdojnë, ose veprime me rezultat të rëndësishëm tani.\n\nShembull i hartuar: “I have finished my homework.” Detyrat janë përfunduar dhe rezultati lidhet me të tashmen. Me kohë të përfunduar, si yesterday, zakonisht përdorim Past Simple.",
+      "translations": {
+        "en": "Use have/has + past participle for Present Perfect. It connects past events to now: experiences so far, continuing situations, or present results.\n\nOriginal example: “I have finished my homework.” The completed work matters now. With a finished time such as yesterday, normally use Past Simple instead.",
+        "de": "Das englische Present Perfect besteht aus have/has + past participle. Es verbindet Vergangenes mit der Gegenwart: Erfahrungen, andauernde Situationen oder aktuelle Ergebnisse.\n\nEigenes Beispiel: “I have finished my homework.” Das Ergebnis ist jetzt wichtig. Bei abgeschlossenen Zeitangaben wie yesterday verwendet man normalerweise Past Simple."
+      },
+      "keywords": [
+        "present perfect",
+        "have has",
+        "past participle",
+        "e kryer",
+        "perfekt"
+      ],
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Short paraphrase of the beginner-level explanation, with an original example. Publication year is not stated. Not Kosovo-specific material.",
+      "sourceId": "reference_en_present_perfect",
+      "sourcePage": null,
+      "sourceLocator": "British Council LearnEnglish · Present perfect",
+      "subtopic": "Present Perfect",
+      "curriculumRelevant": false,
+      "curriculumNote": "External backup; no Kosovo alignment inferred from this reference alone.",
+      "evidenceRole": "explanation",
+      "conciseContent": "Present Perfect formohet me have/has + past participle dhe lidh të kaluarën me të tashmen. Përdoret për përvoja deri tani, situata që vazhdojnë ose veprime me rezultat të rëndësishëm tani."
+    }
+  ]
+}

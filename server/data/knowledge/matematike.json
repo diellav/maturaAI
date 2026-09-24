@@ -1,0 +1,563 @@
+{
+  "subject": "Matematikë",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "reference_math_quadratic",
+      "title": "OpenStax · Elementary Algebra 2e, 10.3 Quadratic Formula",
+      "publisher": "OpenStax",
+      "grade": null,
+      "year": 2020,
+      "sourceType": "trusted-external-reference",
+      "url": "https://openstax.org/books/elementary-algebra-2e/pages/10-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "originalFile": null,
+      "subjects": [
+        "Matematikë"
+      ],
+      "kosovoSpecific": false,
+      "pageCount": null,
+      "metadataEvidence": "Migrated existing reviewed reference; original review retained. Not a Kosovo curriculum or exam document."
+    },
+    {
+      "id": "pegi_math12",
+      "title": "Libër për mësuesin · Matematika 12",
+      "publisher": "Botime Pegi, dega në Kosovë",
+      "grade": 12,
+      "year": 2022,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/matematika-12.pdf",
+      "subjects": [
+        "Matematikë"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title and Kosovo branch copyright, PDF pp. 2–3. Approval fields contain placeholders; no government authorship claimed.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 485,
+      "sha256": "68cf5965bf2af05645c8e6e472521911597f727def824a49a20840261d45f188",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "kosovo_core2016",
+      "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+      "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+      "grade": null,
+      "year": 2016,
+      "sourceType": "official-kosovo-curriculum",
+      "url": null,
+      "originalFile": "source/korniza-berthame-3-final.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Republic of Kosovo/MASHT, revised August 2016, gymnasium classes X, XI, XII on cover. Scope evidence, not current exam guarantee.",
+      "metadataPages": [
+        1
+      ],
+      "pageCount": 126,
+      "sha256": "79447f76f9bb34c784ac8370570cf4b5a6411c530878b9f5f6ec4ebaaf1991fe",
+      "parseStatus": "extracted",
+      "grades": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "kosovo_matura2014",
+      "title": "Programi orientues dhe modele të pyetjeve · Matura 2014",
+      "publisher": "MASHT · Divizioni për Vlerësim, Standarde dhe Monitorim",
+      "grade": null,
+      "year": 2014,
+      "sourceType": "official-kosovo-matura-historical",
+      "url": null,
+      "originalFile": "source/programi-orientues-dhe-modele-te-pyetje-per-provimin-e-matures-shteteror_1.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Cover explicitly says Matura 2014, Prishtinë 2014. Historical scope only; multiple-choice questions are excluded from conceptual chunks.",
+      "metadataPages": [
+        1,
+        4
+      ],
+      "pageCount": 271,
+      "sha256": "239382ef7dce1377838c762e07377e4514e345c9f87c6f497b5469e01a1ea5a5",
+      "parseStatus": "extracted"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "math_quadratic",
+      "topic": "Ekuacionet kuadratike",
+      "title": "Formula kuadratike dhe diskriminanti",
+      "content": "Shkruaje ekuacionin në formën ax² + bx + c = 0, ku a ≠ 0. Identifiko a, b dhe c bashkë me shenjat. Llogarit D = b² − 4ac, pastaj x = (−b ± √D)/(2a).\n\nNë numrat realë: D > 0 jep dy zgjidhje; D = 0 jep një zgjidhje të dyfishtë; D < 0 nuk jep zgjidhje reale. Kontrolloji rezultatet në ekuacionin fillestar.",
+      "translations": {
+        "en": "Write ax² + bx + c = 0, with a ≠ 0. Identify the signed coefficients, calculate D = b² − 4ac, then use x = (−b ± √D)/(2a).\n\nD > 0 gives two real solutions; D = 0 gives one repeated solution; D < 0 gives no real solutions. Substitute back to check.",
+        "de": "Schreibe ax² + bx + c = 0 mit a ≠ 0. Bestimme die Koeffizienten mit ihren Vorzeichen. Berechne D = b² − 4ac und x = (−b ± √D)/(2a).\n\nD > 0: zwei reelle Lösungen; D = 0: eine doppelte Lösung; D < 0: keine reellen Lösungen. Prüfe durch Einsetzen."
+      },
+      "keywords": [
+        "kuadratik",
+        "quadratic",
+        "quadratisch",
+        "diskriminant",
+        "discriminant",
+        "diskriminante"
+      ],
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Formula and real-solution cases checked against section 10.3. Not an official Matura question.",
+      "sourceId": "reference_math_quadratic",
+      "sourcePage": null,
+      "sourceLocator": "OpenStax · Elementary Algebra 2e, 10.3 Quadratic Formula",
+      "subtopic": "Ekuacionet kuadratike",
+      "curriculumRelevant": false,
+      "curriculumNote": "External backup; no Kosovo alignment inferred from this reference alone.",
+      "evidenceRole": "explanation",
+      "conciseContent": "Për ax² + bx + c = 0, a ≠ 0, përdor x = (−b ± √(b² − 4ac))/(2a). Në numrat realë, D = b² − 4ac pozitiv jep dy zgjidhje, zero një zgjidhje të dyfishtë dhe negativ asnjë zgjidhje reale."
+    },
+    {
+      "id": "math_function",
+      "topic": "Përkufizimi i funksionit",
+      "subtopic": "Përkufizimi i funksionit",
+      "title": "Përkufizimi i funksionit",
+      "content": "Një funksion lidh çdo element të bashkësisë së përcaktimit X me një dhe vetëm një element të bashkësisë së vlerave të lejuara Y. Për të qenë funksion, asnjë element i X nuk mund të mbetet pa figurë ose të ketë dy figura të ndryshme. Funksionet numerike përdorin bashkësi numrash dhe mund të paraqiten me diagram, tabelë ose formulë.",
+      "keywords": [
+        "funksion",
+        "përkufizim",
+        "bashkësi përcaktimi",
+        "domain"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 39,
+      "sourceLocator": "PDF page 39",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Çka është një funksion?"
+    },
+    {
+      "id": "math_arithmetic_definition",
+      "topic": "Progresioni aritmetik dhe diferenca",
+      "subtopic": "Progresioni aritmetik dhe diferenca",
+      "title": "Progresioni aritmetik dhe diferenca",
+      "content": "Progresioni aritmetik është varg numerik ku çdo kufizë, duke filluar nga e dyta, merret duke i shtuar kufizës paraardhëse të njëjtin numër d. Pra, diferenca ndërmjet dy kufizave të njëpasnjëshme është konstante: yₙ − yₙ₋₁ = d. Në shembullin yₙ = 5 − 3n, diferenca është −3, ndaj vargu është progresion aritmetik.",
+      "keywords": [
+        "progresion aritmetik",
+        "diferencë",
+        "varg"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 81,
+      "sourceLocator": "PDF page 81",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Çka është progresioni aritmetik?"
+    },
+    {
+      "id": "math_arithmetic_formula",
+      "topic": "Formula e kufizës së progresionit aritmetik",
+      "subtopic": "Formula e kufizës së progresionit aritmetik",
+      "title": "Formula e kufizës së progresionit aritmetik",
+      "content": "Kufiza e n-të e progresionit aritmetik jepet nga yₙ = y₁ + (n − 1)d, ku y₁ është kufiza e parë dhe d diferenca konstante. Formula vjen nga shtimi i diferencës d gjithsej n − 1 herë: y₂ = y₁ + d, y₃ = y₁ + 2d e kështu me radhë.",
+      "keywords": [
+        "progresion aritmetik",
+        "kufizë",
+        "formulë",
+        "aritmetik"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 82,
+      "sourceLocator": "PDF page 82",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Cila është formula e kufizës së progresionit aritmetik?"
+    },
+    {
+      "id": "math_quadratic_scope",
+      "topic": "Ekuacionet kuadratike në kurrikulën 2016",
+      "subtopic": "Ekuacionet kuadratike në kurrikulën 2016",
+      "title": "Ekuacionet kuadratike në kurrikulën 2016",
+      "content": "Kurrikula Bërthamë 2016 përfshin zgjidhjen e ekuacioneve kuadratike ndër rezultatet matematikore të arsimit të mesëm të lartë. Kjo faqe përcakton fushën e të nxënit; nuk jep këtu formulën kuadratike ose një zgjidhje të punuar.",
+      "keywords": [
+        "kuadratik",
+        "quadratic",
+        "ekuacion",
+        "kurrikulë"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 48,
+      "sourceLocator": "PDF page 48",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page."
+    },
+    {
+      "id": "math_quadratic_historical",
+      "topic": "Ekuacionet kuadratike në orientimin e Maturës 2014",
+      "subtopic": "Ekuacionet kuadratike në orientimin e Maturës 2014",
+      "title": "Ekuacionet kuadratike në orientimin e Maturës 2014",
+      "content": "Programi orientues i Maturës 2014 përfshinte zgjidhjen e ekuacionit kuadratik, faktorizimin, natyrën e zgjidhjeve dhe formulat e Vietës. Ky është dokument historik i vitit 2014 dhe nuk vërteton përmbajtjen e provimit aktual.",
+      "keywords": [
+        "kuadratik",
+        "quadratic",
+        "ekuacion",
+        "matura",
+        "2014",
+        "orientues"
+      ],
+      "sourceId": "kosovo_matura2014",
+      "sourcePage": 151,
+      "sourceLocator": "PDF page 151",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page."
+    },
+    {
+      "id": "math_graph",
+      "topic": "Grafiku i funksionit",
+      "subtopic": "Grafiku i funksionit",
+      "title": "Grafiku i funksionit",
+      "content": "Grafiku i funksionit është bashkësia e pikave (x, f(x)) në planin koordinativ. Abshisa x merret nga bashkësia e përcaktimit dhe ordinata është vlera përkatëse f(x). Kështu, grafiku e paraqet vizualisht lidhjen midis hyrjes dhe vlerës së funksionit.",
+      "keywords": [
+        "grafik",
+        "grafiku",
+        "abshisë",
+        "ordinatë"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 43,
+      "sourceLocator": "PDF page 43",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka është grafiku i funksionit?"
+    },
+    {
+      "id": "math_monotonic",
+      "topic": "Funksioni rritës dhe zbritës",
+      "subtopic": "Funksioni rritës dhe zbritës",
+      "title": "Funksioni rritës dhe zbritës",
+      "content": "Funksioni është rritës në një bashkësi kur, për çdo x₂ > x₁ nga ajo bashkësi, vlen f(x₂) > f(x₁). Është zbritës kur nga x₂ > x₁ rrjedh f(x₂) < f(x₁). Pra, krahaso vlerat e funksionit kur rritet argumenti: në rastin e parë rriten, në të dytin zvogëlohen.",
+      "keywords": [
+        "rritës",
+        "zbritës",
+        "monotoni"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 44,
+      "sourceLocator": "PDF page 44",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Qka osht dallimi mes funksionit rritës dhe zbritës?"
+    },
+    {
+      "id": "math_sum_functions",
+      "topic": "Shuma e dy funksioneve",
+      "subtopic": "Shuma e dy funksioneve",
+      "title": "Shuma e dy funksioneve",
+      "content": "Për dy funksione f dhe g të përcaktuara në të njëjtën bashkësi D, shuma e tyre është funksioni (f + g)(x) = f(x) + g(x). Për secilën vlerë x në D, gjej vlerën e secilit funksion dhe pastaj mblidhi. Rezultati përcakton një funksion të ri në D.",
+      "keywords": [
+        "shuma",
+        "mbledhja",
+        "dy funksione"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 53,
+      "sourceLocator": "PDF page 53",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si gjendet shuma e dy funksioneve?"
+    },
+    {
+      "id": "math_bounded",
+      "topic": "Funksioni i kufizuar",
+      "subtopic": "Funksioni i kufizuar",
+      "title": "Funksioni i kufizuar",
+      "content": "Një funksion është i kufizuar nga lart nëse ekziston një numër M mbi të gjitha vlerat e tij; grafiku qëndron nën drejtëzën y = M. Është i kufizuar nga poshtë nëse ekziston një numër m nën të gjitha vlerat e tij. Nëse ka kufi nga të dyja anët, funksioni është i kufizuar.",
+      "keywords": [
+        "kufizuar",
+        "kufi",
+        "lart",
+        "poshtë"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 54,
+      "sourceLocator": "PDF page 54",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka do të thotë funksion i kufizuar?"
+    },
+    {
+      "id": "math_parity",
+      "topic": "Funksioni çift dhe tek",
+      "subtopic": "Funksioni çift dhe tek",
+      "title": "Funksioni çift dhe tek",
+      "content": "Për të shqyrtuar çiftësinë, bashkësia e përcaktimit duhet që bashkë me x të përmbajë edhe −x. Funksioni është çift kur f(−x) = f(x), ndërsa është tek kur f(−x) = −f(x), për çdo x të asaj bashkësie. Kontrolli bëhet duke zëvendësuar x me −x dhe duke krahasuar shprehjet.",
+      "keywords": [
+        "çift",
+        "tek",
+        "çiftësia"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 56,
+      "sourceLocator": "PDF page 56",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Qka osht dallimi mes funksionit çift edhe tek?"
+    },
+    {
+      "id": "math_periodic",
+      "topic": "Funksioni periodik",
+      "subtopic": "Funksioni periodik",
+      "title": "Funksioni periodik",
+      "content": "Funksioni është periodik nëse ekziston një numër a ≠ 0, i tillë që për çdo x të bashkësisë së përcaktimit edhe x − a dhe x + a i përkasin asaj bashkësie dhe f(x + a) = f(x). Kjo do të thotë që vlerat përsëriten pas zhvendosjes me a.",
+      "keywords": [
+        "periodik",
+        "perioda",
+        "përsëritje"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 57,
+      "sourceLocator": "PDF page 57",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka është funksioni periodik?"
+    },
+    {
+      "id": "math_composition",
+      "topic": "Përbërja e funksioneve",
+      "subtopic": "Përbërja e funksioneve",
+      "title": "Përbërja e funksioneve",
+      "content": "Përbërja g ∘ f do të thotë që zbatohet fillimisht funksioni f dhe pastaj funksioni g mbi rezultatin e tij: (g ∘ f)(x) = g(f(x)). Rendi ka rëndësi: hyrja kalon së pari në f, kurse dalja e f bëhet hyrje për g. Përbërja përdoret aty ku këto vlera lejojnë zbatimin e të dy funksioneve.",
+      "keywords": [
+        "përbërja",
+        "kompozimi",
+        "gof"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 59,
+      "sourceLocator": "PDF page 59",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si funksionon përbërja e funksioneve?"
+    },
+    {
+      "id": "math_inverse_relation",
+      "topic": "Relacioni i anasjellë",
+      "subtopic": "Relacioni i anasjellë",
+      "title": "Relacioni i anasjellë",
+      "content": "Te relacioni i anasjellë ndërrohen vendet e bashkësisë së fillimit dhe asaj të mbarimit. Çdo çift i relacionit fillestar kthehet në çift me rend të kundërt: vendet e hyrjes dhe daljes shkëmbehen. Kjo faqe përkufizon relacionin e anasjellë; nuk pohon se çdo relacion i tillë është domosdoshmërisht funksion.",
+      "keywords": [
+        "relacion",
+        "anasjellë",
+        "invers"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 62,
+      "sourceLocator": "PDF page 62",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka është relacioni i anasjellë?"
+    },
+    {
+      "id": "math_sequence",
+      "topic": "Vargu numerik",
+      "subtopic": "Vargu numerik",
+      "title": "Vargu numerik",
+      "content": "Vargu numerik është funksion që ka si bashkësi përcaktimi numrat natyrorë ose një bashkësi të numrave të parë natyrorë. Vlerat e tij quhen kufiza të vargut. Treguesi tregon vendin e kufizës, ndërsa kufiza është vlera që i përgjigjet atij treguesi.",
+      "keywords": [
+        "varg",
+        "vargu",
+        "numerik",
+        "kufiza"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 70,
+      "sourceLocator": "PDF page 70",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Qka osht vargu numerik?"
+    },
+    {
+      "id": "math_recursive",
+      "topic": "Formula rekurrente e vargut",
+      "subtopic": "Formula rekurrente e vargut",
+      "title": "Formula rekurrente e vargut",
+      "content": "Formula rekurrente shpreh një kufizë të vargut nëpërmjet kufizave paraardhëse. Për ta dhënë vargun në mënyrë rekurrente, jepet kufiza e parë ose disa kufiza fillestare dhe një rregull që lejon llogaritjen e kufizave pasuese. Pra, kufizat ndërtohen hap pas hapi nga ato që dihen.",
+      "keywords": [
+        "rekurrente",
+        "rekursion",
+        "paraardhëse"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 74,
+      "sourceLocator": "PDF page 74",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Ma shpjego formulën rekurrente."
+    },
+    {
+      "id": "math_geometric",
+      "topic": "Progresioni gjeometrik",
+      "subtopic": "Progresioni gjeometrik",
+      "title": "Progresioni gjeometrik",
+      "content": "Progresioni gjeometrik është një varg me kufiza të ndryshme nga zero, ku çdo kufizë pas së parës merret duke shumëzuar kufizën paraardhëse me të njëjtin numër q. Numri q quhet herësi i progresionit. Rregulli është yₙ = q · yₙ₋₁, ndaj raporti i kufizave të njëpasnjëshme mbetet i njëjtë.",
+      "keywords": [
+        "progresion gjeometrik",
+        "herësi",
+        "herës"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 87,
+      "sourceLocator": "PDF page 87",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka është progresioni gjeometrik?"
+    },
+    {
+      "id": "math_sequence_limit",
+      "topic": "Limiti i vargut",
+      "subtopic": "Limiti i vargut",
+      "title": "Limiti i vargut",
+      "content": "Vargu ka limit L kur kufizat e tij afrohen sa të duam pranë numrit L, mjafton të zgjidhen tregues mjaft të mëdhenj. Ky është kuptimi i konvergjencës drejt L. Nëse kufizat bëhen sa të duam të mëdha kur rriten mjaft treguesit, flasim për limit +∞.",
+      "keywords": [
+        "limit",
+        "konvergjencë",
+        "vargu"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 125,
+      "sourceLocator": "PDF page 125",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka është limiti i vargut?"
+    },
+    {
+      "id": "math_function_limit",
+      "topic": "Limiti i funksionit në një pikë",
+      "subtopic": "Limiti i funksionit në një pikë",
+      "title": "Limiti i funksionit në një pikë",
+      "content": "Funksioni f ka limit L kur x i afrohet a, nëse vlerat f(x) afrohen sa të duam pranë L duke zgjedhur x mjaft afër a, por x ≠ a. Pra, limiti përshkruan sjelljen pranë pikës; në këtë përkufizim x merret i ndryshëm nga vetë pika a.",
+      "keywords": [
+        "limit",
+        "pikë",
+        "afrohet"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 188,
+      "sourceLocator": "PDF page 188",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çka është limiti i funksionit në një pikë?"
+    },
+    {
+      "id": "math_polynomial_limit",
+      "topic": "Limiti i një polinomi",
+      "subtopic": "Limiti i një polinomi",
+      "title": "Limiti i një polinomi",
+      "content": "Nëse P(x) është polinom, limiti i P(x) kur x i afrohet a është P(a). Për të gjetur këtë limit, zëvendëso x me a në polinom dhe kryej veprimet. Ky rregull në faqen e cituar zbatohet për polinomet, jo automatikisht për një thyesë me emërues zero.",
+      "keywords": [
+        "polinom",
+        "polinomi",
+        "limiti"
+      ],
+      "sourceId": "pegi_math12",
+      "sourcePage": 195,
+      "sourceLocator": "PDF page 195",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si gjendet limiti i një polinomi?"
+    }
+  ]
+}

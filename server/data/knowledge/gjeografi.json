@@ -1,0 +1,147 @@
+{
+  "subject": "Gjeografi",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "kosovo_matura2014",
+      "title": "Programi orientues dhe modele të pyetjeve · Matura 2014",
+      "publisher": "MASHT · Divizioni për Vlerësim, Standarde dhe Monitorim",
+      "grade": null,
+      "year": 2014,
+      "sourceType": "official-kosovo-matura-historical",
+      "url": null,
+      "originalFile": "source/programi-orientues-dhe-modele-te-pyetje-per-provimin-e-matures-shteteror_1.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Cover explicitly says Matura 2014, Prishtinë 2014. Historical scope only; multiple-choice questions are excluded from conceptual chunks.",
+      "metadataPages": [
+        1,
+        4
+      ],
+      "pageCount": 271,
+      "sha256": "239382ef7dce1377838c762e07377e4514e345c9f87c6f497b5469e01a1ea5a5",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "kosovo_core2016",
+      "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+      "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+      "grade": null,
+      "year": 2016,
+      "sourceType": "official-kosovo-curriculum",
+      "url": null,
+      "originalFile": "source/korniza-berthame-3-final.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Republic of Kosovo/MASHT, revised August 2016, gymnasium classes X, XI, XII on cover. Scope evidence, not current exam guarantee.",
+      "metadataPages": [
+        1
+      ],
+      "pageCount": 126,
+      "sha256": "79447f76f9bb34c784ac8370570cf4b5a6411c530878b9f5f6ec4ebaaf1991fe",
+      "parseStatus": "extracted",
+      "grades": [
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "id": "geo_kosovo_scope2014",
+      "topic": "Temat për Kosovën në orientimin e Maturës 2014",
+      "subtopic": "Temat për Kosovën në orientimin e Maturës 2014",
+      "title": "Temat për Kosovën në orientimin e Maturës 2014",
+      "content": "Në programin orientues të Maturës 2014, temat për Kosovën përfshinin pozitën, territorin, madhësinë dhe kufijtë; ndërtimin gjeologjik, relievin, klimën, ujërat, tokat, florën dhe faunën; popullsinë, vendbanimet, migrimin dhe diasporën; si dhe ekonominë, bujqësinë, pylltarinë, industrinë, transportin dhe turizmin. Kjo është listë historike temash, jo shpjegim i veçorive dhe as program i konfirmuar për provimin aktual.",
+      "keywords": [
+        "kosov",
+        "tema",
+        "program",
+        "orientues",
+        "matura",
+        "2014",
+        "veçoritë",
+        "gjeografike"
+      ],
+      "sourceId": "kosovo_matura2014",
+      "sourcePage": 80,
+      "sourceLocator": "PDF page 80",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Cilat tema për Kosovën përfshiheshin në orientimin e Maturës 2014?"
+    },
+    {
+      "id": "geo_geospheres",
+      "topic": "Gjeosferat e Tokës",
+      "subtopic": "Gjeosferat e Tokës",
+      "title": "Gjeosferat e Tokës",
+      "content": "Kurrikula rendit litosferën, atmosferën, hidrosferën dhe biosferën si gjeosfera të Tokës. Studimi i tyre përfshin përbërjen, strukturën, dukuritë, proceset dhe marrëdhëniet ndërmjet tyre. Ky fragment jep emërtimet dhe lidhjen e studimit të tyre; nuk jep përkufizimin e hollësishëm të secilës.",
+      "keywords": [
+        "gjeosferë",
+        "gjeosferat",
+        "litosferë",
+        "atmosferë",
+        "hidrosferë",
+        "biosferë"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 59,
+      "sourceLocator": "PDF page 59",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Cilat gjeosfera të Tokës renditen në kurrikulë?"
+    },
+    {
+      "id": "geo_region_analysis",
+      "topic": "Analiza e një rajoni gjeografik",
+      "subtopic": "Analiza e një rajoni gjeografik",
+      "title": "Analiza e një rajoni gjeografik",
+      "content": "Për të analizuar një rajon, shqyrto pozitën gjeografike, veçoritë natyrore dhe ato socio-ekonomike. Veçoritë natyrore përfshijnë relievin, klimën, ujërat, tokat dhe botën bimore e shtazore; veçoritë socio-ekonomike përfshijnë popullsinë, vendbanimet dhe veprimtaritë ekonomike. Kjo skemë studimi zbatohet për rajone dhe vende të ndryshme.",
+      "keywords": [
+        "rajon",
+        "rajoni",
+        "analizë",
+        "natyrore",
+        "socio ekonomike"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 59,
+      "sourceLocator": "PDF page 59",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "study-method",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si ta analizoj një rajon gjeografik?"
+    }
+  ]
+}

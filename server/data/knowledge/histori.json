@@ -1,0 +1,222 @@
+{
+  "subject": "Histori",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "albas_history11",
+      "title": "Libër për mësuesin · Histori 11",
+      "publisher": "Albas",
+      "grade": 11,
+      "year": 2019,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/liber-mesuesi-histori-11-ks.pdf",
+      "subjects": [
+        "Histori"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title p. 2; Albas copyright 2019 and Kosovo ministry school-use decision dated 09.07.2019 p. 3. Approval does not make Albas a government publisher.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 162,
+      "sha256": "b9ac766fa8247a298601c6276f91c65ec1d93e314bd28b7cde2588c11d22ff9c",
+      "parseStatus": "extracted"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "history_locke",
+      "topic": "Idetë e Xhon Lokut",
+      "subtopic": "Idetë e Xhon Lokut",
+      "title": "Idetë e Xhon Lokut",
+      "content": "Xhon Loku kritikoi monarkinë absolute dhe përkrahu idenë e vetëqeverisjes. Sipas përmbledhjes në material, ai mendonte se njerëzit lindin të lirë dhe të barabartë.",
+      "keywords": [
+        "xhon",
+        "loku",
+        "lokut",
+        "locke",
+        "monarki",
+        "vetëqeverisje"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 130,
+      "sourceLocator": "PDF page 130",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Cilat ishin idetë e Xhon Lokut?"
+    },
+    {
+      "id": "history_rousseau",
+      "topic": "Rusoi dhe kontrata sociale",
+      "subtopic": "Rusoi dhe kontrata sociale",
+      "title": "Rusoi dhe kontrata sociale",
+      "content": "Në veprën Kontrata sociale, Rusoi paraqet idenë se shteti është një kontratë sociale mes individëve që e përbëjnë. Kjo është ideja kryesore e përmbledhur në materialin mësimor.",
+      "keywords": [
+        "rusoi",
+        "ruso",
+        "rousseau",
+        "kontrata",
+        "sociale"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 130,
+      "sourceLocator": "PDF page 130",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Çfarë ideje paraqet Rusoi në Kontratën sociale?"
+    },
+    {
+      "id": "history_hobbes",
+      "topic": "Tomas Hobsi dhe rendi",
+      "subtopic": "Tomas Hobsi dhe rendi",
+      "title": "Tomas Hobsi dhe rendi",
+      "content": "Sipas përmbledhjes së ideve të Tomas Hobsit në material, qeveria ka rëndësi për mbajtjen e rendit. Pa të, ai parashikon konflikt të vazhdueshëm të secilit kundër secilit. Kjo shpjegon pse rendi dhe autoriteti politik zënë vend qendror në qëndrimin e tij.",
+      "keywords": [
+        "hobs",
+        "hobsi",
+        "tomas",
+        "rendi"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 130,
+      "sourceLocator": "PDF page 130",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Pse Hobsi e konsideronte të rëndësishme qeverinë?"
+    },
+    {
+      "id": "history_montesquieu",
+      "topic": "Monteskje dhe ndarja e pushteteve",
+      "subtopic": "Monteskje dhe ndarja e pushteteve",
+      "title": "Monteskje dhe ndarja e pushteteve",
+      "content": "Materiali e lidh veprën Shpirti i Ligjeve të Monteskjes me idenë e ndarjes së pushteteve në mendimin politik modern. Ideja kryesore për t’u mbajtur mend në këtë përmbledhje është lidhja Monteskje – Shpirti i Ligjeve – ndarje e pushteteve.",
+      "keywords": [
+        "monteskje",
+        "monteskjes",
+        "ndarja",
+        "pushteteve"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 130,
+      "sourceLocator": "PDF page 130",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Me cilën ide lidhet Monteskje?"
+    },
+    {
+      "id": "history_pashaliks",
+      "topic": "Tiparet shtetformuese të pashallëqeve",
+      "subtopic": "Tiparet shtetformuese të pashallëqeve",
+      "title": "Tiparet shtetformuese të pashallëqeve",
+      "content": "Pashallëqet e Shkodrës dhe Janinës kishin territor e popullsi, financa, vula e stema, si dhe administratë të drejtuar nga pashallarët. Materiali i paraqet këto si tipare shtetformuese. Njëkohësisht sqaron se nuk duhet t’i barazojmë automatikisht me shtetin-komb modern ose me vetëdije të qartë për shtet kombëtar të pavarur.",
+      "keywords": [
+        "pashallëk",
+        "pashallëqet",
+        "shkodrës",
+        "janinës",
+        "shtetformuese"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 64,
+      "sourceLocator": "PDF page 64",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çfarë tiparesh shtetformuese kishin pashallëqet shqiptare?"
+    },
+    {
+      "id": "history_us_powers",
+      "topic": "Ndarja e pushteteve në Kushtetutën amerikane",
+      "subtopic": "Ndarja e pushteteve në Kushtetutën amerikane",
+      "title": "Ndarja e pushteteve në Kushtetutën amerikane",
+      "content": "Në përmbledhjen historike të Kushtetutës amerikane, pushteti ligjvënës i jepet Kongresit me dy dhoma: Senatit dhe Dhomës së Përfaqësuesve. Pushteti ekzekutiv i jepet Presidentit, ndërsa pushteti gjyqësor gjykatave federale, me Gjykatën e Lartë si gjykatë kryesore. Ky është shembulli i ndarjes së pushteteve që përdor materiali.",
+      "keywords": [
+        "kushtetuta",
+        "amerikane",
+        "kongresi",
+        "senati",
+        "pushteteve"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 107,
+      "sourceLocator": "PDF page 107",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si ndahet pushteti sipas Kushtetutës amerikane në material?"
+    },
+    {
+      "id": "history_east_trade",
+      "topic": "Produkte të tregtisë me Lindjen",
+      "subtopic": "Produkte të tregtisë me Lindjen",
+      "title": "Produkte të tregtisë me Lindjen",
+      "content": "Tabela e materialit lidh Indinë me pambukun, Kinën me porcelanin, Persinë me qilimat dhe Japoninë me shpatat. Këta janë shembuj produktesh për të krahasuar vendet e Lindjes në mësimin për tregtinë dhe kolonizimin, jo lista të plota të prodhimit të tyre.",
+      "keywords": [
+        "produkte",
+        "lindja",
+        "pambuk",
+        "porcelan",
+        "persi",
+        "japoni"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 111,
+      "sourceLocator": "PDF page 111",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Cilat produkte nga Lindja jepen si shembuj në material?"
+    },
+    {
+      "id": "history_sources_method",
+      "topic": "Krahasimi i burimeve historike",
+      "subtopic": "Krahasimi i burimeve historike",
+      "title": "Krahasimi i burimeve historike",
+      "content": "Për një ngjarje historike përdor burime të ndryshme dhe krahaso informacionet e interpretimet e tyre. Analizo argumentet për secilin pohim dhe ndërto përfundimin tënd mbi to. Materiali e rekomandon këtë mënyrë pune për të zhvilluar gjykim të pavarur dhe arsyetim të mbështetur në dëshmi.",
+      "keywords": [
+        "burime historike",
+        "krahasimi",
+        "argumente",
+        "interpretim"
+      ],
+      "sourceId": "albas_history11",
+      "sourcePage": 147,
+      "sourceLocator": "PDF page 147",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "study-method",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Si duhet t’i krahasoj burimet historike?"
+    }
+  ]
+}

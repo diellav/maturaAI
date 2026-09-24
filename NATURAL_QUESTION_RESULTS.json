@@ -1,0 +1,1777 @@
+{
+  "mode": "Deterministic curated reference mode, verifiedOnly=true, no subject filter. Retrieval hits and selected citations are measured; semantic answer correctness is not automatically scored.",
+  "questions": 47,
+  "concepts": 33,
+  "hits": 47,
+  "expectedReferenceSources": 47,
+  "results": [
+    {
+      "question": "fotosinteza",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "çka është fotosinteza?",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "qka o fotosinteza?",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "ma shpjego fotosintezën",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "si funksionon fotosinteza?",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "qka o fotosinyteza?",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "medium",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Pse është e rëndësishme fotosinteza?",
+      "concept": "bio_photosynthesis_kosovo",
+      "expectedId": "bio_photosynthesis_kosovo",
+      "expectedTopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "retrievedTopics": [
+        {
+          "id": "bio_photosynthesis_scope",
+          "topic": "Fotosinteza në kurrikulën e shkencave natyrore"
+        },
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë"
+        },
+        {
+          "id": "bio_photosynthesis",
+          "topic": "Fotosinteza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_photosynthesis_kosovo",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=54",
+          "topic": "Fotosinteza dhe shndërrimi i energjisë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 54,
+          "locator": "PDF page 54",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "funksion",
+      "concept": "math_function",
+      "expectedId": "math_function",
+      "expectedTopic": "Përkufizimi i funksionit",
+      "retrievedTopics": [
+        {
+          "id": "math_function",
+          "topic": "Përkufizimi i funksionit"
+        },
+        {
+          "id": "math_sum_functions",
+          "topic": "Shuma e dy funksioneve"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_function",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=39",
+          "topic": "Përkufizimi i funksionit",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 39,
+          "locator": "PDF page 39",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "çka është funksioni?",
+      "concept": "math_function",
+      "expectedId": "math_function",
+      "expectedTopic": "Përkufizimi i funksionit",
+      "retrievedTopics": [
+        {
+          "id": "math_function",
+          "topic": "Përkufizimi i funksionit"
+        },
+        {
+          "id": "math_sum_functions",
+          "topic": "Shuma e dy funksioneve"
+        },
+        {
+          "id": "math_bounded",
+          "topic": "Funksioni i kufizuar"
+        },
+        {
+          "id": "math_monotonic",
+          "topic": "Funksioni rritës dhe zbritës"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_function",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=39",
+          "topic": "Përkufizimi i funksionit",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 39,
+          "locator": "PDF page 39",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "ma shpjego funksionin",
+      "concept": "math_function",
+      "expectedId": "math_function",
+      "expectedTopic": "Përkufizimi i funksionit",
+      "retrievedTopics": [
+        {
+          "id": "math_function",
+          "topic": "Përkufizimi i funksionit"
+        },
+        {
+          "id": "math_sum_functions",
+          "topic": "Shuma e dy funksioneve"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_function",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=39",
+          "topic": "Përkufizimi i funksionit",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 39,
+          "locator": "PDF page 39",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "ma shpjego funksionin në matematikë",
+      "concept": "math_function",
+      "expectedId": "math_function",
+      "expectedTopic": "Përkufizimi i funksionit",
+      "retrievedTopics": [
+        {
+          "id": "math_function",
+          "topic": "Përkufizimi i funksionit"
+        },
+        {
+          "id": "math_sum_functions",
+          "topic": "Shuma e dy funksioneve"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_function",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=39",
+          "topic": "Përkufizimi i funksionit",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 39,
+          "locator": "PDF page 39",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "acidet dhe bazat",
+      "concept": "chem_arrhenius",
+      "expectedId": "chem_arrhenius",
+      "expectedTopic": "Acidet dhe bazat sipas Arrheniusit",
+      "retrievedTopics": [
+        {
+          "id": "chem_scope",
+          "topic": "Acidet dhe bazat në kurrikulën 2016"
+        },
+        {
+          "id": "chem_arrhenius",
+          "topic": "Acidet dhe bazat sipas Arrheniusit"
+        },
+        {
+          "id": "chem_bronsted",
+          "topic": "Acidet dhe bazat sipas Brønsted–Lowry"
+        },
+        {
+          "id": "chem_lewis",
+          "topic": "Acidet dhe bazat sipas Lewis-it"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_arrhenius",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=34",
+          "topic": "Acidet dhe bazat sipas Arrheniusit",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 34,
+          "locator": "PDF page 34",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "qka jon acidet dhe bazat?",
+      "concept": "chem_arrhenius",
+      "expectedId": "chem_arrhenius",
+      "expectedTopic": "Acidet dhe bazat sipas Arrheniusit",
+      "retrievedTopics": [
+        {
+          "id": "chem_scope",
+          "topic": "Acidet dhe bazat në kurrikulën 2016"
+        },
+        {
+          "id": "chem_arrhenius",
+          "topic": "Acidet dhe bazat sipas Arrheniusit"
+        },
+        {
+          "id": "chem_bronsted",
+          "topic": "Acidet dhe bazat sipas Brønsted–Lowry"
+        },
+        {
+          "id": "chem_lewis",
+          "topic": "Acidet dhe bazat sipas Lewis-it"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_arrhenius",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=34",
+          "topic": "Acidet dhe bazat sipas Arrheniusit",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 34,
+          "locator": "PDF page 34",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "ma shpjego acidet sipas Arrheniusit",
+      "concept": "chem_arrhenius",
+      "expectedId": "chem_arrhenius",
+      "expectedTopic": "Acidet dhe bazat sipas Arrheniusit",
+      "retrievedTopics": [
+        {
+          "id": "chem_arrhenius",
+          "topic": "Acidet dhe bazat sipas Arrheniusit"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_arrhenius",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=34",
+          "topic": "Acidet dhe bazat sipas Arrheniusit",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 34,
+          "locator": "PDF page 34",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "RAM ROM",
+      "concept": "ict_memory",
+      "expectedId": "ict_memory",
+      "expectedTopic": "RAM dhe ROM",
+      "retrievedTopics": [
+        {
+          "id": "ict_memory",
+          "topic": "RAM dhe ROM"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "TIK",
+      "sources": [
+        {
+          "id": "ict_memory",
+          "sourceId": "reference_ict_memory",
+          "title": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+          "url": "https://bam.files.bbci.co.uk/bam/live/content/zp8yvcw/transcript",
+          "localFileUrl": null,
+          "topic": "RAM dhe ROM",
+          "year": null,
+          "grade": null,
+          "publisher": "BBC",
+          "page": null,
+          "locator": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+          "verified": true,
+          "type": "trusted-external-reference",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "qka osht dallimi mes RAM edhe ROM?",
+      "concept": "ict_memory",
+      "expectedId": "ict_memory",
+      "expectedTopic": "RAM dhe ROM",
+      "retrievedTopics": [
+        {
+          "id": "ict_memory",
+          "topic": "RAM dhe ROM"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "TIK",
+      "sources": [
+        {
+          "id": "ict_memory",
+          "sourceId": "reference_ict_memory",
+          "title": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+          "url": "https://bam.files.bbci.co.uk/bam/live/content/zp8yvcw/transcript",
+          "localFileUrl": null,
+          "topic": "RAM dhe ROM",
+          "year": null,
+          "grade": null,
+          "publisher": "BBC",
+          "page": null,
+          "locator": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+          "verified": true,
+          "type": "trusted-external-reference",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka është RAM?",
+      "concept": "ict_memory",
+      "expectedId": "ict_memory",
+      "expectedTopic": "RAM dhe ROM",
+      "retrievedTopics": [
+        {
+          "id": "ict_memory",
+          "topic": "RAM dhe ROM"
+        },
+        {
+          "id": "ict_curriculum_scope",
+          "topic": "Pajisjet e kompjuterit në kurrikulën 2016"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "TIK",
+      "sources": [
+        {
+          "id": "ict_memory",
+          "sourceId": "reference_ict_memory",
+          "title": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+          "url": "https://bam.files.bbci.co.uk/bam/live/content/zp8yvcw/transcript",
+          "localFileUrl": null,
+          "topic": "RAM dhe ROM",
+          "year": null,
+          "grade": null,
+          "publisher": "BBC",
+          "page": null,
+          "locator": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+          "verified": true,
+          "type": "trusted-external-reference",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka është grafiku i funksionit?",
+      "concept": "math_graph",
+      "expectedId": "math_graph",
+      "expectedTopic": "Grafiku i funksionit",
+      "retrievedTopics": [
+        {
+          "id": "math_graph",
+          "topic": "Grafiku i funksionit"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_graph",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=43",
+          "topic": "Grafiku i funksionit",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 43,
+          "locator": "PDF page 43",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht dallimi mes funksionit çift edhe tek?",
+      "concept": "math_parity",
+      "expectedId": "math_parity",
+      "expectedTopic": "Funksioni çift dhe tek",
+      "retrievedTopics": [
+        {
+          "id": "math_parity",
+          "topic": "Funksioni çift dhe tek"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_parity",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=56",
+          "topic": "Funksioni çift dhe tek",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 56,
+          "locator": "PDF page 56",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka është funksioni periodik?",
+      "concept": "math_periodic",
+      "expectedId": "math_periodic",
+      "expectedTopic": "Funksioni periodik",
+      "retrievedTopics": [
+        {
+          "id": "math_periodic",
+          "topic": "Funksioni periodik"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_periodic",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=57",
+          "topic": "Funksioni periodik",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 57,
+          "locator": "PDF page 57",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Si funksionon përbërja e funksioneve?",
+      "concept": "math_composition",
+      "expectedId": "math_composition",
+      "expectedTopic": "Përbërja e funksioneve",
+      "retrievedTopics": [
+        {
+          "id": "math_composition",
+          "topic": "Përbërja e funksioneve"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_composition",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=59",
+          "topic": "Përbërja e funksioneve",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 59,
+          "locator": "PDF page 59",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht vargu numerik?",
+      "concept": "math_sequence",
+      "expectedId": "math_sequence",
+      "expectedTopic": "Vargu numerik",
+      "retrievedTopics": [
+        {
+          "id": "math_sequence",
+          "topic": "Vargu numerik"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_sequence",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=70",
+          "topic": "Vargu numerik",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 70,
+          "locator": "PDF page 70",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka është progresioni gjeometrik?",
+      "concept": "math_geometric",
+      "expectedId": "math_geometric",
+      "expectedTopic": "Progresioni gjeometrik",
+      "retrievedTopics": [
+        {
+          "id": "math_geometric",
+          "topic": "Progresioni gjeometrik"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_geometric",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=87",
+          "topic": "Progresioni gjeometrik",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 87,
+          "locator": "PDF page 87",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Ma shpjego formulën rekurrente.",
+      "concept": "math_recursive",
+      "expectedId": "math_recursive",
+      "expectedTopic": "Formula rekurrente e vargut",
+      "retrievedTopics": [
+        {
+          "id": "math_recursive",
+          "topic": "Formula rekurrente e vargut"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Matematikë",
+      "sources": [
+        {
+          "id": "math_recursive",
+          "sourceId": "pegi_math12",
+          "title": "Libër për mësuesin · Matematika 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_math12/file#page=74",
+          "topic": "Formula rekurrente e vargut",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 74,
+          "locator": "PDF page 74",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Si ndërtohet një pesëvargësh?",
+      "concept": "sq_pesevargesh",
+      "expectedId": "sq_pesevargesh",
+      "expectedTopic": "Si ndërtohet një pesëvargësh",
+      "retrievedTopics": [
+        {
+          "id": "sq_pesevargesh",
+          "topic": "Si ndërtohet një pesëvargësh"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Gjuhë Shqipe",
+      "sources": [
+        {
+          "id": "sq_pesevargesh",
+          "sourceId": "pegi_albanian12",
+          "title": "Libër për mësuesin · Gjuha shqipe dhe letërsia 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_albanian12/file#page=130",
+          "topic": "Si ndërtohet një pesëvargësh",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 130,
+          "locator": "PDF page 130",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "study-method"
+        }
+      ]
+    },
+    {
+      "question": "Si përdoret ditari dypjesësh?",
+      "concept": "sq_double_journal",
+      "expectedId": "sq_double_journal",
+      "expectedTopic": "Ditari dypjesësh për analizën e tekstit",
+      "retrievedTopics": [
+        {
+          "id": "sq_double_journal",
+          "topic": "Ditari dypjesësh për analizën e tekstit"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Gjuhë Shqipe",
+      "sources": [
+        {
+          "id": "sq_double_journal",
+          "sourceId": "pegi_albanian12",
+          "title": "Libër për mësuesin · Gjuha shqipe dhe letërsia 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_albanian12/file#page=72",
+          "topic": "Ditari dypjesësh për analizën e tekstit",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 72,
+          "locator": "PDF page 72",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "study-method"
+        }
+      ]
+    },
+    {
+      "question": "Si lidhet kuptimi i fjalës me kontekstin?",
+      "concept": "sq_context",
+      "expectedId": "sq_context",
+      "expectedTopic": "Kuptimi i fjalës dhe konteksti",
+      "retrievedTopics": [
+        {
+          "id": "sq_context",
+          "topic": "Kuptimi i fjalës dhe konteksti"
+        }
+      ],
+      "hit": true,
+      "confidence": "medium",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Gjuhë Shqipe",
+      "sources": [
+        {
+          "id": "sq_context",
+          "sourceId": "pegi_albanian12",
+          "title": "Libër për mësuesin · Gjuha shqipe dhe letërsia 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_albanian12/file#page=80",
+          "topic": "Kuptimi i fjalës dhe konteksti",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 80,
+          "locator": "PDF page 80",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Si bëhet leximi i drejtuar me ndalesa?",
+      "concept": "sq_directed_reading",
+      "expectedId": "sq_directed_reading",
+      "expectedTopic": "Leximi i drejtuar me ndalesa",
+      "retrievedTopics": [
+        {
+          "id": "sq_directed_reading",
+          "topic": "Leximi i drejtuar me ndalesa"
+        }
+      ],
+      "hit": true,
+      "confidence": "medium",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Gjuhë Shqipe",
+      "sources": [
+        {
+          "id": "sq_directed_reading",
+          "sourceId": "pegi_albanian12",
+          "title": "Libër për mësuesin · Gjuha shqipe dhe letërsia 12",
+          "url": null,
+          "localFileUrl": "/api/sources/pegi_albanian12/file#page=34",
+          "topic": "Leximi i drejtuar me ndalesa",
+          "year": 2022,
+          "grade": 12,
+          "publisher": "Botime Pegi, dega në Kosovë",
+          "page": 34,
+          "locator": "PDF page 34",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "study-method"
+        }
+      ]
+    },
+    {
+      "question": "Kur përdoret Present Perfect?",
+      "concept": "en_present_perfect",
+      "expectedId": "en_present_perfect",
+      "expectedTopic": "Present Perfect",
+      "retrievedTopics": [
+        {
+          "id": "en_present_perfect",
+          "topic": "Present Perfect"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Anglisht",
+      "sources": [
+        {
+          "id": "en_present_perfect",
+          "sourceId": "reference_en_present_perfect",
+          "title": "British Council LearnEnglish · Present perfect",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect",
+          "localFileUrl": null,
+          "topic": "Present Perfect",
+          "year": null,
+          "grade": null,
+          "publisher": "British Council",
+          "page": null,
+          "locator": "British Council LearnEnglish · Present perfect",
+          "verified": true,
+          "type": "trusted-external-reference",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht algoritmi?",
+      "concept": "ict_algorithm",
+      "expectedId": "ict_algorithm",
+      "expectedTopic": "Algoritmi",
+      "retrievedTopics": [
+        {
+          "id": "ict_algorithm",
+          "topic": "Algoritmi"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "TIK",
+      "sources": [
+        {
+          "id": "ict_algorithm",
+          "sourceId": "kosovo_core2016",
+          "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+          "url": null,
+          "localFileUrl": "/api/sources/kosovo_core2016/file#page=48",
+          "topic": "Algoritmi",
+          "year": 2016,
+          "grade": null,
+          "grades": [
+            10,
+            11,
+            12
+          ],
+          "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+          "page": 48,
+          "locator": "PDF page 48",
+          "verified": true,
+          "type": "official-kosovo-curriculum",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Cilat ishin idetë e Xhon Lokut?",
+      "concept": "history_locke",
+      "expectedId": "history_locke",
+      "expectedTopic": "Idetë e Xhon Lokut",
+      "retrievedTopics": [
+        {
+          "id": "history_locke",
+          "topic": "Idetë e Xhon Lokut"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Histori",
+      "sources": [
+        {
+          "id": "history_locke",
+          "sourceId": "albas_history11",
+          "title": "Libër për mësuesin · Histori 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_history11/file#page=130",
+          "topic": "Idetë e Xhon Lokut",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 130,
+          "locator": "PDF page 130",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Me cilën ide lidhet Monteskje?",
+      "concept": "history_montesquieu",
+      "expectedId": "history_montesquieu",
+      "expectedTopic": "Monteskje dhe ndarja e pushteteve",
+      "retrievedTopics": [
+        {
+          "id": "history_montesquieu",
+          "topic": "Monteskje dhe ndarja e pushteteve"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Histori",
+      "sources": [
+        {
+          "id": "history_montesquieu",
+          "sourceId": "albas_history11",
+          "title": "Libër për mësuesin · Histori 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_history11/file#page=130",
+          "topic": "Monteskje dhe ndarja e pushteteve",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 130,
+          "locator": "PDF page 130",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Si ndahet pushteti sipas Kushtetutës amerikane në material?",
+      "concept": "history_us_powers",
+      "expectedId": "history_us_powers",
+      "expectedTopic": "Ndarja e pushteteve në Kushtetutën amerikane",
+      "retrievedTopics": [
+        {
+          "id": "history_us_powers",
+          "topic": "Ndarja e pushteteve në Kushtetutën amerikane"
+        }
+      ],
+      "hit": true,
+      "confidence": "medium",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Histori",
+      "sources": [
+        {
+          "id": "history_us_powers",
+          "sourceId": "albas_history11",
+          "title": "Libër për mësuesin · Histori 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_history11/file#page=107",
+          "topic": "Ndarja e pushteteve në Kushtetutën amerikane",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 107,
+          "locator": "PDF page 107",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Cilat gjeosfera të Tokës renditen në kurrikulë?",
+      "concept": "geo_geospheres",
+      "expectedId": "geo_geospheres",
+      "expectedTopic": "Gjeosferat e Tokës",
+      "retrievedTopics": [
+        {
+          "id": "geo_geospheres",
+          "topic": "Gjeosferat e Tokës"
+        }
+      ],
+      "hit": true,
+      "confidence": "medium",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Gjeografi",
+      "sources": [
+        {
+          "id": "geo_geospheres",
+          "sourceId": "kosovo_core2016",
+          "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+          "url": null,
+          "localFileUrl": "/api/sources/kosovo_core2016/file#page=59",
+          "topic": "Gjeosferat e Tokës",
+          "year": 2016,
+          "grade": null,
+          "grades": [
+            10,
+            11,
+            12
+          ],
+          "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+          "page": 59,
+          "locator": "PDF page 59",
+          "verified": true,
+          "type": "official-kosovo-curriculum",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Si ta analizoj një rajon gjeografik?",
+      "concept": "geo_region_analysis",
+      "expectedId": "geo_region_analysis",
+      "expectedTopic": "Analiza e një rajoni gjeografik",
+      "retrievedTopics": [
+        {
+          "id": "geo_region_analysis",
+          "topic": "Analiza e një rajoni gjeografik"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Gjeografi",
+      "sources": [
+        {
+          "id": "geo_region_analysis",
+          "sourceId": "kosovo_core2016",
+          "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+          "url": null,
+          "localFileUrl": "/api/sources/kosovo_core2016/file#page=59",
+          "topic": "Analiza e një rajoni gjeografik",
+          "year": 2016,
+          "grade": null,
+          "grades": [
+            10,
+            11,
+            12
+          ],
+          "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+          "page": 59,
+          "locator": "PDF page 59",
+          "verified": true,
+          "type": "official-kosovo-curriculum",
+          "evidenceRole": "study-method"
+        }
+      ]
+    },
+    {
+      "question": "Çka janë elektrolitet?",
+      "concept": "chem_electrolytes",
+      "expectedId": "chem_electrolytes",
+      "expectedTopic": "Elektrolitet dhe joelektrolitet",
+      "retrievedTopics": [
+        {
+          "id": "chem_electrolytes",
+          "topic": "Elektrolitet dhe joelektrolitet"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_electrolytes",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=46",
+          "topic": "Elektrolitet dhe joelektrolitet",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 46,
+          "locator": "PDF page 46",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht tretësira buferike?",
+      "concept": "chem_buffer",
+      "expectedId": "chem_buffer",
+      "expectedTopic": "Tretësira buferike",
+      "retrievedTopics": [
+        {
+          "id": "chem_buffer",
+          "topic": "Tretësira buferike"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_buffer",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=60",
+          "topic": "Tretësira buferike",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 60,
+          "locator": "PDF page 60",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka është korrozioni?",
+      "concept": "chem_corrosion",
+      "expectedId": "chem_corrosion",
+      "expectedTopic": "Korrozioni dhe mbrojtja e thjeshtë",
+      "retrievedTopics": [
+        {
+          "id": "chem_corrosion",
+          "topic": "Korrozioni dhe mbrojtja e thjeshtë"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_corrosion",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=85",
+          "topic": "Korrozioni dhe mbrojtja e thjeshtë",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 85,
+          "locator": "PDF page 85",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht dallimi mes oksidimit edhe reduktimit?",
+      "concept": "chem_redox",
+      "expectedId": "chem_redox",
+      "expectedTopic": "Oksidimi dhe reduktimi",
+      "retrievedTopics": [
+        {
+          "id": "chem_redox",
+          "topic": "Oksidimi dhe reduktimi"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_redox",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=72",
+          "topic": "Oksidimi dhe reduktimi",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 72,
+          "locator": "PDF page 72",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka jon acidet dhe bazat sipas Lewis-it?",
+      "concept": "chem_lewis",
+      "expectedId": "chem_lewis",
+      "expectedTopic": "Acidet dhe bazat sipas Lewis-it",
+      "retrievedTopics": [
+        {
+          "id": "chem_lewis",
+          "topic": "Acidet dhe bazat sipas Lewis-it"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Kimi",
+      "sources": [
+        {
+          "id": "chem_lewis",
+          "sourceId": "albas_chem11",
+          "title": "Libër për mësuesin · Kimi 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_chem11/file#page=39",
+          "topic": "Acidet dhe bazat sipas Lewis-it",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 39,
+          "locator": "PDF page 39",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka janë enzimat?",
+      "concept": "bio_enzymes",
+      "expectedId": "bio_enzymes",
+      "expectedTopic": "Enzimat dhe qendra aktive",
+      "retrievedTopics": [
+        {
+          "id": "bio_enzymes",
+          "topic": "Enzimat dhe qendra aktive"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_enzymes",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=46",
+          "topic": "Enzimat dhe qendra aktive",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 46,
+          "locator": "PDF page 46",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Ma shpjego enzimat.",
+      "concept": "bio_enzymes",
+      "expectedId": "bio_enzymes",
+      "expectedTopic": "Enzimat dhe qendra aktive",
+      "retrievedTopics": [
+        {
+          "id": "bio_enzymes",
+          "topic": "Enzimat dhe qendra aktive"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_enzymes",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=46",
+          "topic": "Enzimat dhe qendra aktive",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 46,
+          "locator": "PDF page 46",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht glikoliza?",
+      "concept": "bio_glycolysis",
+      "expectedId": "bio_glycolysis",
+      "expectedTopic": "Glikoliza",
+      "retrievedTopics": [
+        {
+          "id": "bio_glycolysis",
+          "topic": "Glikoliza"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_glycolysis",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=61",
+          "topic": "Glikoliza",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 61,
+          "locator": "PDF page 61",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Çka është transkriptimi?",
+      "concept": "bio_transcription",
+      "expectedId": "bio_transcription",
+      "expectedTopic": "Transkriptimi",
+      "retrievedTopics": [
+        {
+          "id": "bio_transcription",
+          "topic": "Transkriptimi"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_transcription",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=98",
+          "topic": "Transkriptimi",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 98,
+          "locator": "PDF page 98",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Ma shpjego translatimin dhe antikodonin.",
+      "concept": "bio_translation",
+      "expectedId": "bio_translation",
+      "expectedTopic": "Translatimi dhe antikodoni",
+      "retrievedTopics": [
+        {
+          "id": "bio_translation",
+          "topic": "Translatimi dhe antikodoni"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_translation",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=102",
+          "topic": "Translatimi dhe antikodoni",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 102,
+          "locator": "PDF page 102",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Qka osht gradualizmi?",
+      "concept": "bio_gradualism",
+      "expectedId": "bio_gradualism",
+      "expectedTopic": "Gradualizmi",
+      "retrievedTopics": [
+        {
+          "id": "bio_gradualism",
+          "topic": "Gradualizmi"
+        }
+      ],
+      "hit": true,
+      "confidence": "high",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_gradualism",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=134",
+          "topic": "Gradualizmi",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 134,
+          "locator": "PDF page 134",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    },
+    {
+      "question": "Pse xixëllonjat bëjnë dritë?",
+      "concept": "bio_luciferase",
+      "expectedId": "bio_luciferase",
+      "expectedTopic": "Luçiferaza te xixëllonjat",
+      "retrievedTopics": [
+        {
+          "id": "bio_luciferase",
+          "topic": "Luçiferaza te xixëllonjat"
+        }
+      ],
+      "hit": true,
+      "confidence": "medium",
+      "status": "answered",
+      "referenceUsesExpected": true,
+      "subject": "Biologji",
+      "sources": [
+        {
+          "id": "bio_luciferase",
+          "sourceId": "albas_bio11",
+          "title": "Libër për mësuesin · Biologji 11",
+          "url": null,
+          "localFileUrl": "/api/sources/albas_bio11/file#page=102",
+          "topic": "Luçiferaza te xixëllonjat",
+          "year": 2019,
+          "grade": 11,
+          "publisher": "Albas",
+          "page": 102,
+          "locator": "PDF page 102",
+          "verified": true,
+          "type": "kosovo-educational-material",
+          "evidenceRole": "explanation"
+        }
+      ]
+    }
+  ]
+}

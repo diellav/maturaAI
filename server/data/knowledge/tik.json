@@ -1,0 +1,159 @@
+{
+  "subject": "TIK",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "reference_ict_memory",
+      "title": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+      "publisher": "BBC",
+      "grade": null,
+      "year": null,
+      "sourceType": "trusted-external-reference",
+      "url": "https://bam.files.bbci.co.uk/bam/live/content/zp8yvcw/transcript",
+      "originalFile": null,
+      "subjects": [
+        "TIK"
+      ],
+      "kosovoSpecific": false,
+      "pageCount": null,
+      "metadataEvidence": "Migrated existing reviewed reference; original review retained. Not a Kosovo curriculum or exam document."
+    },
+    {
+      "id": "kosovo_core2016",
+      "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+      "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+      "grade": null,
+      "year": 2016,
+      "sourceType": "official-kosovo-curriculum",
+      "url": null,
+      "originalFile": "source/korniza-berthame-3-final.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Republic of Kosovo/MASHT, revised August 2016, gymnasium classes X, XI, XII on cover. Scope evidence, not current exam guarantee.",
+      "metadataPages": [
+        1
+      ],
+      "pageCount": 126,
+      "sha256": "79447f76f9bb34c784ac8370570cf4b5a6411c530878b9f5f6ec4ebaaf1991fe",
+      "parseStatus": "extracted",
+      "grades": [
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "id": "ict_memory",
+      "topic": "RAM dhe ROM",
+      "title": "Kujtesa e kompjuterit: RAM dhe ROM",
+      "content": "RAM mban përkohësisht të dhënat që kompjuteri po përdor, për qasje të shpejtë. Është kujtesë e paqëndrueshme: përmbajtja humbet kur ndërpritet energjia.\n\nROM ruan udhëzime për nisjen e kompjuterit dhe e mban përmbajtjen pa energji. Dallimi kryesor: RAM shërben për punën aktuale, ndërsa ROM ruan udhëzime të qëndrueshme nisjeje.",
+      "translations": {
+        "en": "RAM temporarily stores data currently being used so the computer can access it quickly. It is volatile: its contents disappear when power is removed.\n\nROM retains startup instructions without power. The key distinction is temporary working data in RAM versus retained startup instructions in ROM.",
+        "de": "RAM speichert vorübergehend aktuell benötigte Daten für schnellen Zugriff. Der Inhalt geht ohne Strom verloren.\n\nROM behält Startanweisungen auch ohne Strom. Der wichtigste Unterschied: RAM hält aktuelle Arbeitsdaten bereit; ROM bewahrt Anweisungen zum Starten des Computers."
+      },
+      "keywords": [
+        "ram",
+        "rom",
+        "memory",
+        "kujtes",
+        "speicher",
+        "arbeitsspeicher"
+      ],
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Short paraphrase checked against the BBC-hosted transcript. No publication year shown; not Kosovo-specific material.",
+      "sourceId": "reference_ict_memory",
+      "sourcePage": null,
+      "sourceLocator": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+      "subtopic": "RAM dhe ROM",
+      "curriculumRelevant": false,
+      "curriculumNote": "External backup; no Kosovo alignment inferred from this reference alone.",
+      "evidenceRole": "explanation",
+      "conciseContent": "RAM mban përkohësisht të dhënat e punës dhe i humbet pa energji; ROM ruan udhëzimet e nisjes edhe pa energji.",
+      "demoQuestion": "Cili është dallimi mes RAM dhe ROM?"
+    },
+    {
+      "id": "ict_curriculum_scope",
+      "topic": "Pajisjet e kompjuterit në kurrikulën 2016",
+      "subtopic": "Pajisjet e kompjuterit në kurrikulën 2016",
+      "title": "Pajisjet e kompjuterit në kurrikulën 2016",
+      "content": "Në fushën Jeta dhe puna, Kurrikula Bërthamë 2016 rendit pajisjet e kompjuterit, gjuhën e programimit dhe rrjetin e komunikimit ndër konceptet specifike. Kjo faqe dëshmon fushën kurrikulare; nuk përkufizon RAM-in ose ROM-in.",
+      "keywords": [
+        "pajisjet",
+        "kompjuter",
+        "programim",
+        "rrjet",
+        "ram",
+        "rom",
+        "kujtes"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 87,
+      "sourceLocator": "PDF page 87",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page."
+    },
+    {
+      "id": "ict_algorithm",
+      "topic": "Algoritmi",
+      "subtopic": "Algoritmi",
+      "title": "Algoritmi",
+      "content": "Algoritmi është një ecuri e përcaktuar saktë për zgjidhjen e një problemi, me një numër të kufizuar hapash. Hapat duhet të jenë të qartë, të zbatueshëm dhe të çojnë në një përfundim. Përkufizimi vjen nga pjesa e matematikës e Kurrikulës Bërthamë dhe përdoret këtu si koncept i përbashkët me informatikën.",
+      "keywords": [
+        "algoritëm",
+        "algoritmi",
+        "hapa",
+        "algorithm"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 48,
+      "sourceLocator": "PDF page 48",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Qka osht algoritmi?"
+    },
+    {
+      "id": "ict_communication_ethics",
+      "topic": "Etika e komunikimit digjital",
+      "subtopic": "Etika e komunikimit digjital",
+      "title": "Etika e komunikimit digjital",
+      "content": "Në përdorimin e TIK-ut, kurrikula thekson përgjegjësinë, etikën e komunikimit, respektimin e diversitetit dhe kodit të mirësjelljes. Bashkëpunimi duhet të shoqërohet me respekt për saktësinë dhe kritikë konstruktive. Këto janë parime sjelljeje gjatë punës e komunikimit me mjetet digjitale.",
+      "keywords": [
+        "etikë",
+        "etika",
+        "komunikim digjital",
+        "mirësjellje"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 86,
+      "sourceLocator": "PDF page 86",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. ",
+      "demoQuestion": "Çfarë parimesh ka etika e komunikimit digjital?"
+    }
+  ]
+}

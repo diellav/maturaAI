@@ -1,0 +1,237 @@
+[
+  {
+    "question": "fotosinteza",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "çka është fotosinteza?",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "qka o fotosinteza?",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "ma shpjego fotosintezën",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "si funksionon fotosinteza?",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "qka o fotosinyteza?",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "Pse është e rëndësishme fotosinteza?",
+    "concept": "bio_photosynthesis_kosovo",
+    "expectedId": "bio_photosynthesis_kosovo"
+  },
+  {
+    "question": "funksion",
+    "concept": "math_function",
+    "expectedId": "math_function"
+  },
+  {
+    "question": "çka është funksioni?",
+    "concept": "math_function",
+    "expectedId": "math_function"
+  },
+  {
+    "question": "ma shpjego funksionin",
+    "concept": "math_function",
+    "expectedId": "math_function"
+  },
+  {
+    "question": "ma shpjego funksionin në matematikë",
+    "concept": "math_function",
+    "expectedId": "math_function"
+  },
+  {
+    "question": "acidet dhe bazat",
+    "concept": "chem_arrhenius",
+    "expectedId": "chem_arrhenius"
+  },
+  {
+    "question": "qka jon acidet dhe bazat?",
+    "concept": "chem_arrhenius",
+    "expectedId": "chem_arrhenius"
+  },
+  {
+    "question": "ma shpjego acidet sipas Arrheniusit",
+    "concept": "chem_arrhenius",
+    "expectedId": "chem_arrhenius"
+  },
+  {
+    "question": "RAM ROM",
+    "concept": "ict_memory",
+    "expectedId": "ict_memory"
+  },
+  {
+    "question": "qka osht dallimi mes RAM edhe ROM?",
+    "concept": "ict_memory",
+    "expectedId": "ict_memory"
+  },
+  {
+    "question": "Çka është RAM?",
+    "concept": "ict_memory",
+    "expectedId": "ict_memory"
+  },
+  {
+    "question": "Çka është grafiku i funksionit?",
+    "concept": "math_graph",
+    "expectedId": "math_graph"
+  },
+  {
+    "question": "Qka osht dallimi mes funksionit çift edhe tek?",
+    "concept": "math_parity",
+    "expectedId": "math_parity"
+  },
+  {
+    "question": "Çka është funksioni periodik?",
+    "concept": "math_periodic",
+    "expectedId": "math_periodic"
+  },
+  {
+    "question": "Si funksionon përbërja e funksioneve?",
+    "concept": "math_composition",
+    "expectedId": "math_composition"
+  },
+  {
+    "question": "Qka osht vargu numerik?",
+    "concept": "math_sequence",
+    "expectedId": "math_sequence"
+  },
+  {
+    "question": "Çka është progresioni gjeometrik?",
+    "concept": "math_geometric",
+    "expectedId": "math_geometric"
+  },
+  {
+    "question": "Ma shpjego formulën rekurrente.",
+    "concept": "math_recursive",
+    "expectedId": "math_recursive"
+  },
+  {
+    "question": "Si ndërtohet një pesëvargësh?",
+    "concept": "sq_pesevargesh",
+    "expectedId": "sq_pesevargesh"
+  },
+  {
+    "question": "Si përdoret ditari dypjesësh?",
+    "concept": "sq_double_journal",
+    "expectedId": "sq_double_journal"
+  },
+  {
+    "question": "Si lidhet kuptimi i fjalës me kontekstin?",
+    "concept": "sq_context",
+    "expectedId": "sq_context"
+  },
+  {
+    "question": "Si bëhet leximi i drejtuar me ndalesa?",
+    "concept": "sq_directed_reading",
+    "expectedId": "sq_directed_reading"
+  },
+  {
+    "question": "Kur përdoret Present Perfect?",
+    "concept": "en_present_perfect",
+    "expectedId": "en_present_perfect"
+  },
+  {
+    "question": "Qka osht algoritmi?",
+    "concept": "ict_algorithm",
+    "expectedId": "ict_algorithm"
+  },
+  {
+    "question": "Cilat ishin idetë e Xhon Lokut?",
+    "concept": "history_locke",
+    "expectedId": "history_locke"
+  },
+  {
+    "question": "Me cilën ide lidhet Monteskje?",
+    "concept": "history_montesquieu",
+    "expectedId": "history_montesquieu"
+  },
+  {
+    "question": "Si ndahet pushteti sipas Kushtetutës amerikane në material?",
+    "concept": "history_us_powers",
+    "expectedId": "history_us_powers"
+  },
+  {
+    "question": "Cilat gjeosfera të Tokës renditen në kurrikulë?",
+    "concept": "geo_geospheres",
+    "expectedId": "geo_geospheres"
+  },
+  {
+    "question": "Si ta analizoj një rajon gjeografik?",
+    "concept": "geo_region_analysis",
+    "expectedId": "geo_region_analysis"
+  },
+  {
+    "question": "Çka janë elektrolitet?",
+    "concept": "chem_electrolytes",
+    "expectedId": "chem_electrolytes"
+  },
+  {
+    "question": "Qka osht tretësira buferike?",
+    "concept": "chem_buffer",
+    "expectedId": "chem_buffer"
+  },
+  {
+    "question": "Çka është korrozioni?",
+    "concept": "chem_corrosion",
+    "expectedId": "chem_corrosion"
+  },
+  {
+    "question": "Qka osht dallimi mes oksidimit edhe reduktimit?",
+    "concept": "chem_redox",
+    "expectedId": "chem_redox"
+  },
+  {
+    "question": "Qka jon acidet dhe bazat sipas Lewis-it?",
+    "concept": "chem_lewis",
+    "expectedId": "chem_lewis"
+  },
+  {
+    "question": "Çka janë enzimat?",
+    "concept": "bio_enzymes",
+    "expectedId": "bio_enzymes"
+  },
+  {
+    "question": "Ma shpjego enzimat.",
+    "concept": "bio_enzymes",
+    "expectedId": "bio_enzymes"
+  },
+  {
+    "question": "Qka osht glikoliza?",
+    "concept": "bio_glycolysis",
+    "expectedId": "bio_glycolysis"
+  },
+  {
+    "question": "Çka është transkriptimi?",
+    "concept": "bio_transcription",
+    "expectedId": "bio_transcription"
+  },
+  {
+    "question": "Ma shpjego translatimin dhe antikodonin.",
+    "concept": "bio_translation",
+    "expectedId": "bio_translation"
+  },
+  {
+    "question": "Qka osht gradualizmi?",
+    "concept": "bio_gradualism",
+    "expectedId": "bio_gradualism"
+  },
+  {
+    "question": "Pse xixëllonjat bëjnë dritë?",
+    "concept": "bio_luciferase",
+    "expectedId": "bio_luciferase"
+  }
+]

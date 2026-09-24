@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bio_photosynthesis",
+    "subject": "Biologji",
+    "topic": "Fotosinteza",
+    "title": "Si e shndërrojnë bimët energjinë e dritës",
+    "content": "Fotosinteza shndërron energjinë e dritës në energji kimike të ruajtur në sheqerna. Bimët përdorin dioksid karboni dhe ujë; gjatë procesit çlirohet oksigjen. Te bimët, fotosinteza zhvillohet në kloroplaste, ku klorofili thith dritën.\n\nPërmbledhje: 6CO₂ + 6H₂O + energji drite → C₆H₁₂O₆ + 6O₂. Ky ekuacion përmbledh shumë hapa, jo një reaksion të vetëm.",
+    "translations": {
+      "en": "Photosynthesis stores light energy as chemical energy in sugars. Plants use carbon dioxide and water and release oxygen. In plants, chloroplasts contain chlorophyll that absorbs light.\n\nSummary: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This equation summarizes many steps rather than one reaction.",
+      "de": "Bei der Fotosynthese wird Lichtenergie als chemische Energie in Zucker gespeichert. Pflanzen benötigen Kohlenstoffdioxid und Wasser und geben Sauerstoff ab. In den Chloroplasten nimmt Chlorophyll Licht auf.\n\nZusammenfassung: 6CO₂ + 6H₂O + Lichtenergie → C₆H₁₂O₆ + 6O₂. Die Gleichung fasst viele Schritte zusammen."
+    },
+    "keywords": ["fotosintez", "photosynthesis", "photosynthese", "fotosynthese", "klorofil", "chlorophyll", "chloroplast", "kloroplast"],
+    "sourceTitle": "OpenStax · Biology 2e, 8.1 Overview of Photosynthesis",
+    "sourceUrl": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+    "sourceYear": 2018,
+    "sourceType": "educational-reference",
+    "verified": true,
+    "reviewedAt": "2026-09-24",
+    "reviewNote": "Short original factual summary checked against section 8.1 and its photosynthesis equation; not a Kosovo exam or curriculum document."
+  },
+  {
+    "id": "en_present_perfect",
+    "subject": "Anglisht",
+    "topic": "Present Perfect",
+    "title": "Present Perfect: forma dhe përdorimi",
+    "content": "Present Perfect formohet me have/has + past participle. Përdoret për përvoja deri tani, situata që filluan në të kaluarën dhe vazhdojnë, ose veprime me rezultat të rëndësishëm tani.\n\nShembull i hartuar: “I have finished my homework.” Detyrat janë përfunduar dhe rezultati lidhet me të tashmen. Me kohë të përfunduar, si yesterday, zakonisht përdorim Past Simple.",
+    "translations": {
+      "en": "Use have/has + past participle for Present Perfect. It connects past events to now: experiences so far, continuing situations, or present results.\n\nOriginal example: “I have finished my homework.” The completed work matters now. With a finished time such as yesterday, normally use Past Simple instead.",
+      "de": "Das englische Present Perfect besteht aus have/has + past participle. Es verbindet Vergangenes mit der Gegenwart: Erfahrungen, andauernde Situationen oder aktuelle Ergebnisse.\n\nEigenes Beispiel: “I have finished my homework.” Das Ergebnis ist jetzt wichtig. Bei abgeschlossenen Zeitangaben wie yesterday verwendet man normalerweise Past Simple."
+    },
+    "keywords": ["present perfect", "have has", "past participle", "e kryer", "perfekt"],
+    "sourceTitle": "British Council LearnEnglish · Present perfect",
+    "sourceUrl": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect",
+    "sourceYear": null,
+    "sourceType": "educational-reference",
+    "verified": true,
+    "reviewedAt": "2026-09-24",
+    "reviewNote": "Short paraphrase of the beginner-level explanation, with an original example. Publication year is not stated. Not Kosovo-specific material."
+  },
+  {
+    "id": "math_quadratic",
+    "subject": "Matematikë",
+    "topic": "Ekuacionet kuadratike",
+    "title": "Formula kuadratike dhe diskriminanti",
+    "content": "Shkruaje ekuacionin në formën ax² + bx + c = 0, ku a ≠ 0. Identifiko a, b dhe c bashkë me shenjat. Llogarit D = b² − 4ac, pastaj x = (−b ± √D)/(2a).\n\nNë numrat realë: D > 0 jep dy zgjidhje; D = 0 jep një zgjidhje të dyfishtë; D < 0 nuk jep zgjidhje reale. Kontrolloji rezultatet në ekuacionin fillestar.",
+    "translations": {
+      "en": "Write ax² + bx + c = 0, with a ≠ 0. Identify the signed coefficients, calculate D = b² − 4ac, then use x = (−b ± √D)/(2a).\n\nD > 0 gives two real solutions; D = 0 gives one repeated solution; D < 0 gives no real solutions. Substitute back to check.",
+      "de": "Schreibe ax² + bx + c = 0 mit a ≠ 0. Bestimme die Koeffizienten mit ihren Vorzeichen. Berechne D = b² − 4ac und x = (−b ± √D)/(2a).\n\nD > 0: zwei reelle Lösungen; D = 0: eine doppelte Lösung; D < 0: keine reellen Lösungen. Prüfe durch Einsetzen."
+    },
+    "keywords": ["kuadratik", "quadratic", "quadratisch", "diskriminant", "discriminant", "diskriminante"],
+    "sourceTitle": "OpenStax · Elementary Algebra 2e, 10.3 Quadratic Formula",
+    "sourceUrl": "https://openstax.org/books/elementary-algebra-2e/pages/10-3-solve-quadratic-equations-using-the-quadratic-formula",
+    "sourceYear": 2020,
+    "sourceType": "educational-reference",
+    "verified": true,
+    "reviewedAt": "2026-09-24",
+    "reviewNote": "Formula and real-solution cases checked against section 10.3. Not an official Matura question."
+  },
+  {
+    "id": "ict_memory",
+    "subject": "TIK",
+    "topic": "RAM dhe ROM",
+    "title": "Kujtesa e kompjuterit: RAM dhe ROM",
+    "content": "RAM mban përkohësisht të dhënat që kompjuteri po përdor, për qasje të shpejtë. Është kujtesë e paqëndrueshme: përmbajtja humbet kur ndërpritet energjia.\n\nROM ruan udhëzime për nisjen e kompjuterit dhe e mban përmbajtjen pa energji. Dallimi kryesor: RAM shërben për punën aktuale, ndërsa ROM ruan udhëzime të qëndrueshme nisjeje.",
+    "translations": {
+      "en": "RAM temporarily stores data currently being used so the computer can access it quickly. It is volatile: its contents disappear when power is removed.\n\nROM retains startup instructions without power. The key distinction is temporary working data in RAM versus retained startup instructions in ROM.",
+      "de": "RAM speichert vorübergehend aktuell benötigte Daten für schnellen Zugriff. Der Inhalt geht ohne Strom verloren.\n\nROM behält Startanweisungen auch ohne Strom. Der wichtigste Unterschied: RAM hält aktuelle Arbeitsdaten bereit; ROM bewahrt Anweisungen zum Starten des Computers."
+    },
+    "keywords": ["ram", "rom", "memory", "kujtes", "speicher", "arbeitsspeicher"],
+    "sourceTitle": "BBC Bitesize · Memory types – GCSE Computer Science (transcript)",
+    "sourceUrl": "https://bam.files.bbci.co.uk/bam/live/content/zp8yvcw/transcript",
+    "sourceYear": null,
+    "sourceType": "educational-reference",
+    "verified": true,
+    "reviewedAt": "2026-09-24",
+    "reviewNote": "Short paraphrase checked against the BBC-hosted transcript. No publication year shown; not Kosovo-specific material."
+  }
+]

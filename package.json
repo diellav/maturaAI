@@ -1,0 +1,26 @@
+{
+  "name": "matura-ai",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w client",
+    "server": "npm run dev -w server",
+    "build": "npm run build -w client",
+    "test": "node --test server/test/*.test.js",
+    "validate:data": "node server/scripts/validate.js",
+    "stats:data": "node server/scripts/stats.js",
+    "ingest:data": "node server/scripts/ingest.js",
+    "demo:data": "node server/scripts/demo.js",
+    "eval:natural": "node server/scripts/evaluate-natural.js"
+  },
+  "overrides": {
+    "rollup": "$rollup"
+  },
+  "devDependencies": {
+    "rollup": "npm:@rollup/wasm-node@4.63.3"
+  }
+}

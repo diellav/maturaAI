@@ -1,0 +1,409 @@
+{
+  "subject": "Kimi",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "albas_chem11",
+      "title": "Libër për mësuesin · Kimi 11",
+      "publisher": "Albas",
+      "grade": 11,
+      "year": 2019,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/liber-mesuesi-kimi-11-ks.pdf",
+      "subjects": [
+        "Kimi"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title p. 2; Albas copyright 2019 and Kosovo ministry school-use decision dated 09.07.2019 p. 3. Approval does not make Albas a government publisher.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 234,
+      "sha256": "5ba184ecc5defc8099acc4dda14962d9ca4720a240d1ac3372538f22d5b98e22",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "kosovo_core2016",
+      "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+      "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+      "grade": null,
+      "year": 2016,
+      "sourceType": "official-kosovo-curriculum",
+      "url": null,
+      "originalFile": "source/korniza-berthame-3-final.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Republic of Kosovo/MASHT, revised August 2016, gymnasium classes X, XI, XII on cover. Scope evidence, not current exam guarantee.",
+      "metadataPages": [
+        1
+      ],
+      "pageCount": 126,
+      "sha256": "79447f76f9bb34c784ac8370570cf4b5a6411c530878b9f5f6ec4ebaaf1991fe",
+      "parseStatus": "extracted",
+      "grades": [
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "id": "chem_arrhenius",
+      "topic": "Acidet dhe bazat sipas Arrheniusit",
+      "subtopic": "Acidet dhe bazat sipas Arrheniusit",
+      "title": "Acidet dhe bazat sipas Arrheniusit",
+      "content": "Sipas Arrheniusit, acidet rritin përqendrimin e joneve H⁺ në tretësirë ujore, ndërsa bazat rritin përqendrimin e joneve OH⁻. Materiali jep HCl si shembull acidi dhe NaOH si shembull baze. Përkufizimi këtu i referohet tretësirave ujore.",
+      "keywords": [
+        "acide",
+        "baza",
+        "arrhenius",
+        "arrenius",
+        "ujore"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 34,
+      "sourceLocator": "PDF page 34",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Definitions and HCl/NaOH examples checked on PDF p. 34 and rendered page. Erroneous final ionic equation in the source deliberately excluded.",
+      "demoQuestion": "Çka janë acidet dhe bazat sipas Arrheniusit?"
+    },
+    {
+      "id": "chem_bronsted",
+      "topic": "Acidet dhe bazat sipas Brønsted–Lowry",
+      "subtopic": "Acidet dhe bazat sipas Brønsted–Lowry",
+      "title": "Acidet dhe bazat sipas Brønsted–Lowry",
+      "content": "Sipas teorisë Brønsted–Lowry, acidi dhuron një proton, ndërsa baza pranon një proton. Në reaksionin acid–bazë, protoni kalon nga acidi te baza.",
+      "keywords": [
+        "bronsted",
+        "lowry",
+        "proton",
+        "acid",
+        "bazë"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 36,
+      "sourceLocator": "PDF page 36",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Çka është acidi sipas Brønsted–Lowry?"
+    },
+    {
+      "id": "chem_scope",
+      "topic": "Acidet dhe bazat në kurrikulën 2016",
+      "subtopic": "Acidet dhe bazat në kurrikulën 2016",
+      "title": "Acidet dhe bazat në kurrikulën 2016",
+      "content": "Acidet, bazat, kripërat dhe oksidet janë ndër konceptet e shkencave natyrore të renditura në Kurrikulën Bërthamë 2016. Lista përcakton fushën e të nxënit dhe nuk zëvendëson përkufizimet kimike.",
+      "keywords": [
+        "acide",
+        "baza",
+        "kurrikulë"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 61,
+      "sourceLocator": "PDF page 61",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page."
+    },
+    {
+      "id": "chem_conjugate",
+      "topic": "Çiftet e konjuguara acid–bazë",
+      "subtopic": "Çiftet e konjuguara acid–bazë",
+      "title": "Çiftet e konjuguara acid–bazë",
+      "content": "Një çift i konjuguar acid–bazë lidhet nga marrja ose dhënia e një protoni H⁺. Për shembull, kur uji H₂O merr një proton, formon H₃O⁺; kur H₃O⁺ e jep protonin, bëhet përsëri H₂O. Kështu, H₃O⁺ dhe H₂O përbëjnë një çift të konjuguar.",
+      "keywords": [
+        "konjuguar",
+        "konjuguara",
+        "çift",
+        "proton"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 37,
+      "sourceLocator": "PDF page 37",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Çka është një çift i konjuguar acid-bazë?"
+    },
+    {
+      "id": "chem_lewis",
+      "topic": "Acidet dhe bazat sipas Lewis-it",
+      "subtopic": "Acidet dhe bazat sipas Lewis-it",
+      "title": "Acidet dhe bazat sipas Lewis-it",
+      "content": "Sipas Lewis-it, një bazë vë në dispozicion një çift elektronik të lirë. Acidi pranon këtë çift elektronesh për të formuar lidhje kovalente me bazën. Këtu dallimi përcaktohet nga çifti elektronik, ndërsa teoria Brønsted–Lowry e përshkruan acidin dhe bazën përmes kalimit të protonit.",
+      "keywords": [
+        "lewis",
+        "luis",
+        "elektronik",
+        "çift"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 39,
+      "sourceLocator": "PDF page 39",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Qka jon acidet dhe bazat sipas Lewis-it?"
+    },
+    {
+      "id": "chem_electrolytes",
+      "topic": "Elektrolitet dhe joelektrolitet",
+      "subtopic": "Elektrolitet dhe joelektrolitet",
+      "title": "Elektrolitet dhe joelektrolitet",
+      "content": "Në shpjegimin për tretësirat ujore, elektrolit është përbërja që jep një tretësirë përçuese të rrymës elektrike. Rryma përcillet nga grimca të ngarkuara që lëvizin lirshëm, si jonet pozitive dhe negative. Te kristali i ngurtë i NaCl, jonet janë të palëvizshme; tretësira e tij ka jone të lira. Joelektrolitet japin tretësira që nuk e përcjellin rrymën.",
+      "keywords": [
+        "elektrolit",
+        "elektrolite",
+        "joelektrolit",
+        "rrymë"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 46,
+      "sourceLocator": "PDF page 46",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Çka janë elektrolitet?"
+    },
+    {
+      "id": "chem_acid_strength",
+      "topic": "Acidet e forta dhe të dobëta",
+      "subtopic": "Acidet e forta dhe të dobëta",
+      "title": "Acidet e forta dhe të dobëta",
+      "content": "Acidet e forta shpërbashkohen plotësisht në tretësirë ujore, ndërsa acidet e dobëta shpërbashkohen vetëm pjesërisht. Në këtë përkufizim, fortësia lidhet me shkallën e shpërbashkimit në ujë. Materiali gjithashtu i quan të forta bazat që shpërbashkohen plotësisht në tretësirë ujore.",
+      "keywords": [
+        "forta",
+        "dobëta",
+        "fortësi",
+        "shpërbashkim"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 51,
+      "sourceLocator": "PDF page 51",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Cili është dallimi mes acideve të forta dhe të dobëta?"
+    },
+    {
+      "id": "chem_dissociation_degree",
+      "topic": "Grada e shpërbashkimit",
+      "subtopic": "Grada e shpërbashkimit",
+      "title": "Grada e shpërbashkimit",
+      "content": "Grada e shpërbashkimit elektrolitik është raporti i numrit të molekulave të shpërbashkuara me numrin e përgjithshëm të molekulave, i shprehur në përqindje. Ajo tregon sa pjesë e përbërjes është shpërbashkuar.",
+      "keywords": [
+        "grada",
+        "shkalla",
+        "shpërbashkimit",
+        "përqindje"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 51,
+      "sourceLocator": "PDF page 51",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Çka është grada e shpërbashkimit?"
+    },
+    {
+      "id": "chem_buffer",
+      "topic": "Tretësira buferike",
+      "subtopic": "Tretësira buferike",
+      "title": "Tretësira buferike",
+      "content": "Tretësira buferike e mban pH-në përgjithësisht të pandryshuar kur shtohen sasi të vogla acidi ose baze. Një shembull i përshkruar është një bazë e dobët bashkë me acidin e saj të konjuguar, si amoniaku dhe jonet amonium. Aftësia për të përballuar shtesa të vogla nuk do të thotë se pH-ja mbetet e pandryshuar për çdo sasi të shtuar.",
+      "keywords": [
+        "bufer",
+        "buferike",
+        "buffer",
+        "pH"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 60,
+      "sourceLocator": "PDF page 60",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Qka osht tretësira buferike?"
+    },
+    {
+      "id": "chem_indicator",
+      "topic": "Indikatorët acido-bazikë",
+      "subtopic": "Indikatorët acido-bazikë",
+      "title": "Indikatorët acido-bazikë",
+      "content": "Indikatori acido-bazik ndryshon ngjyrë në një interval të caktuar të pH-së. Ngjyra lidhet me raportin e formave të ndryshme të indikatorit në tretësirë. Materiali jep fenolftaleinën si shembull: kalimi i saj nga pa ngjyrë në rozë/vjollcë shënohet në intervalin pH 8,2–10,0.",
+      "keywords": [
+        "indikator",
+        "indikatorët",
+        "fenolftaleinë",
+        "ngjyrë"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 64,
+      "sourceLocator": "PDF page 64",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Çka është indikatori acido-bazik?"
+    },
+    {
+      "id": "chem_redox",
+      "topic": "Oksidimi dhe reduktimi",
+      "subtopic": "Oksidimi dhe reduktimi",
+      "title": "Oksidimi dhe reduktimi",
+      "content": "Oksidimi është humbje e elektroneve, kurse reduktimi është marrje e elektroneve. Reaksionet redoks përfshijnë kalimin e elektroneve: një substancë oksidohet dhe tjetra reduktohet. Në formimin e NaCl, natriumi jep elektron dhe formon Na⁺, ndërsa klori merr elektron dhe formon Cl⁻.",
+      "keywords": [
+        "oksidim",
+        "reduktim",
+        "redoks",
+        "elektrone"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 72,
+      "sourceLocator": "PDF page 72",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Qka osht dallimi mes oksidimit edhe reduktimit?"
+    },
+    {
+      "id": "chem_corrosion",
+      "topic": "Korrozioni dhe mbrojtja e thjeshtë",
+      "subtopic": "Korrozioni dhe mbrojtja e thjeshtë",
+      "title": "Korrozioni dhe mbrojtja e thjeshtë",
+      "content": "Korrozioni është një proces gradual në të cilin metali oksidohet dhe konsumohet, duke formuar përbërje si okside, karbonate ose sulfate. Lagështia dhe ajri janë faktorë të përmendur në material. Një mbrojtje e thjeshtë dhe e përkohshme është lyerja me bojë, llak ose graso.",
+      "keywords": [
+        "korrozion",
+        "ndryshkje",
+        "lagështi",
+        "mbrojtje"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 85,
+      "sourceLocator": "PDF page 85",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Çka është korrozioni?"
+    },
+    {
+      "id": "chem_alkali_metals",
+      "topic": "Metalet alkaline dhe alkalino-tokësore",
+      "subtopic": "Metalet alkaline dhe alkalino-tokësore",
+      "title": "Metalet alkaline dhe alkalino-tokësore",
+      "content": "Metalet alkaline të grupit IA janë Li, Na, K, Rb, Cs dhe Fr; shtresa e jashtme e tyre ka konfigurimin ns¹ dhe ato formojnë jone +1. Metalet alkalino-tokësore të grupit IIA janë Be, Mg, Ca, Sr, Ba dhe Ra; kanë konfigurimin e jashtëm ns² dhe formojnë jone +2.",
+      "keywords": [
+        "alkaline",
+        "alkalino",
+        "tokësore",
+        "metale"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 96,
+      "sourceLocator": "PDF page 96",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Cili është dallimi mes metaleve alkaline dhe alkalino-tokësore?"
+    },
+    {
+      "id": "chem_sodium",
+      "topic": "Përftimi industrial i natriumit",
+      "subtopic": "Përftimi industrial i natriumit",
+      "title": "Përftimi industrial i natriumit",
+      "content": "Në procesin industrial të përshkruar, natriumi përftohet me elektrolizën e NaCl së shkrirë. Shtohet CaCl₂ për të ulur temperaturën e shkrirjes së përzierjes. Rryma elektrike mundëson reduktimin e joneve të natriumit; materiali e emërton këtë proces Daun.",
+      "keywords": [
+        "natrium",
+        "natriumit",
+        "elektrolizë",
+        "daun"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 101,
+      "sourceLocator": "PDF page 101",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Si përftohet natriumi në industri?"
+    },
+    {
+      "id": "chem_lime",
+      "topic": "Gëlqerja e shuar dhe e pashuar",
+      "subtopic": "Gëlqerja e shuar dhe e pashuar",
+      "title": "Gëlqerja e shuar dhe e pashuar",
+      "content": "Gëlqerja e pashuar është oksidi i kalciumit, CaO, ndërsa gëlqerja e shuar është hidroksidi i kalciumit, Ca(OH)₂. Gëlqerja e pashuar përftohet duke nxehur gurin gëlqeror CaCO₃, i cili shpërbëhet në CaO dhe CO₂. Këto materiale përdoren si materiale lidhëse në ndërtim.",
+      "keywords": [
+        "gëlqere",
+        "gëlqerja",
+        "shuar",
+        "pashuar"
+      ],
+      "sourceId": "albas_chem11",
+      "sourcePage": 224,
+      "sourceLocator": "PDF page 224",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Excluded corrupted equations, reversed redox-agent labels and erroneous sacrificial-cathode text near these passages.",
+      "demoQuestion": "Qka osht dallimi mes gëlqeres së shuar dhe të pashuar?"
+    }
+  ]
+}

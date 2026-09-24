@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+server/data/evaluation.json
+
+# Read-only extraction scratch and unreviewed ingestion output
+tmp/
+server/data/ingestion/

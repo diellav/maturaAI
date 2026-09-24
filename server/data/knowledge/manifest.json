@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "name": "Matematikë",
+      "file": "matematike.json"
+    },
+    {
+      "name": "Gjuhë Shqipe",
+      "file": "gjuhe_shqipe.json"
+    },
+    {
+      "name": "Anglisht",
+      "file": "anglisht.json"
+    },
+    {
+      "name": "TIK",
+      "file": "tik.json"
+    },
+    {
+      "name": "Histori",
+      "file": "histori.json"
+    },
+    {
+      "name": "Gjeografi",
+      "file": "gjeografi.json"
+    },
+    {
+      "name": "Kimi",
+      "file": "kimi.json"
+    },
+    {
+      "name": "Biologji",
+      "file": "biologji.json"
+    }
+  ]
+}

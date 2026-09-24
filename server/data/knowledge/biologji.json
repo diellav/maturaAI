@@ -1,0 +1,501 @@
+{
+  "subject": "Biologji",
+  "country": "Kosovo",
+  "level": "Upper Secondary",
+  "sources": [
+    {
+      "id": "reference_bio_photosynthesis",
+      "title": "OpenStax · Biology 2e, 8.1 Overview of Photosynthesis",
+      "publisher": "OpenStax",
+      "grade": null,
+      "year": 2018,
+      "sourceType": "trusted-external-reference",
+      "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+      "originalFile": null,
+      "subjects": [
+        "Biologji"
+      ],
+      "kosovoSpecific": false,
+      "pageCount": null,
+      "metadataEvidence": "Migrated existing reviewed reference; original review retained. Not a Kosovo curriculum or exam document."
+    },
+    {
+      "id": "albas_bio11",
+      "title": "Libër për mësuesin · Biologji 11",
+      "publisher": "Albas",
+      "grade": 11,
+      "year": 2019,
+      "sourceType": "kosovo-educational-material",
+      "url": null,
+      "originalFile": "source/liber-mesuesi-biologji-11-ks.pdf",
+      "subjects": [
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Title p. 2; Albas copyright 2019 and Kosovo ministry school-use decision dated 09.07.2019 p. 3. Approval does not make Albas a government publisher.",
+      "metadataPages": [
+        2,
+        3
+      ],
+      "pageCount": 164,
+      "sha256": "ab954dc666e4c035211453537c6e19be69f55942cd8ceeda6d4a1438c3c533b6",
+      "parseStatus": "extracted"
+    },
+    {
+      "id": "kosovo_core2016",
+      "title": "Kurrikula Bërthamë për arsimin e mesëm të lartë të Kosovës · e rishikuar",
+      "publisher": "Ministria e Arsimit, Shkencës dhe Teknologjisë",
+      "grade": null,
+      "year": 2016,
+      "sourceType": "official-kosovo-curriculum",
+      "url": null,
+      "originalFile": "source/korniza-berthame-3-final.pdf",
+      "subjects": [
+        "Matematikë",
+        "Gjuhë Shqipe",
+        "Anglisht",
+        "TIK",
+        "Histori",
+        "Gjeografi",
+        "Kimi",
+        "Biologji"
+      ],
+      "kosovoSpecific": true,
+      "metadataEvidence": "Republic of Kosovo/MASHT, revised August 2016, gymnasium classes X, XI, XII on cover. Scope evidence, not current exam guarantee.",
+      "metadataPages": [
+        1
+      ],
+      "pageCount": 126,
+      "sha256": "79447f76f9bb34c784ac8370570cf4b5a6411c530878b9f5f6ec4ebaaf1991fe",
+      "parseStatus": "extracted",
+      "grades": [
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "id": "bio_photosynthesis",
+      "topic": "Fotosinteza",
+      "title": "Si e shndërrojnë bimët energjinë e dritës",
+      "content": "Fotosinteza shndërron energjinë e dritës në energji kimike të ruajtur në sheqerna. Bimët përdorin dioksid karboni dhe ujë; gjatë procesit çlirohet oksigjen. Te bimët, fotosinteza zhvillohet në kloroplaste, ku klorofili thith dritën.\n\nPërmbledhje: 6CO₂ + 6H₂O + energji drite → C₆H₁₂O₆ + 6O₂. Ky ekuacion përmbledh shumë hapa, jo një reaksion të vetëm.",
+      "translations": {
+        "en": "Photosynthesis stores light energy as chemical energy in sugars. Plants use carbon dioxide and water and release oxygen. In plants, chloroplasts contain chlorophyll that absorbs light.\n\nSummary: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This equation summarizes many steps rather than one reaction.",
+        "de": "Bei der Fotosynthese wird Lichtenergie als chemische Energie in Zucker gespeichert. Pflanzen benötigen Kohlenstoffdioxid und Wasser und geben Sauerstoff ab. In den Chloroplasten nimmt Chlorophyll Licht auf.\n\nZusammenfassung: 6CO₂ + 6H₂O + Lichtenergie → C₆H₁₂O₆ + 6O₂. Die Gleichung fasst viele Schritte zusammen."
+      },
+      "keywords": [
+        "fotosintez",
+        "photosynthesis",
+        "photosynthese",
+        "fotosynthese",
+        "klorofil",
+        "chlorophyll",
+        "chloroplast",
+        "kloroplast"
+      ],
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Short original factual summary checked against section 8.1 and its photosynthesis equation; not a Kosovo exam or curriculum document.",
+      "sourceId": "reference_bio_photosynthesis",
+      "sourcePage": null,
+      "sourceLocator": "OpenStax · Biology 2e, 8.1 Overview of Photosynthesis",
+      "subtopic": "Fotosinteza",
+      "curriculumRelevant": false,
+      "curriculumNote": "External backup; no Kosovo alignment inferred from this reference alone.",
+      "evidenceRole": "explanation"
+    },
+    {
+      "id": "bio_photosynthesis_kosovo",
+      "topic": "Fotosinteza dhe shndërrimi i energjisë",
+      "subtopic": "Fotosinteza dhe shndërrimi i energjisë",
+      "title": "Fotosinteza dhe shndërrimi i energjisë",
+      "content": "Fotosinteza është proces në të cilin bimët përdorin energjinë e dritës së diellit për të krijuar ushqim. Kjo e shndërron energjinë e dritës në një formë që mund të përdoret nga organizmat; ushqimi i krijuar shërben më pas edhe për kafshët. Në shpjegimin e procesit, materiali përmend zinxhirin e transportit të elektroneve, formimin e molekulave ATP dhe formimin e NADPH-së. Kështu, fotosinteza lidh marrjen e energjisë së dritës me krijimin e ushqimit.",
+      "keywords": [
+        "fotosintez",
+        "photosynthesis",
+        "photosynthese",
+        "fotosynthese",
+        "energji",
+        "dritë"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 54,
+      "sourceLocator": "PDF page 54",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Ma shpjego fotosintezën.",
+      "conciseContent": "Fotosinteza është proces në të cilin bimët përdorin energjinë e dritës së diellit për të krijuar ushqim. Ky ushqim shërben më pas edhe për kafshët."
+    },
+    {
+      "id": "bio_green_leaves",
+      "topic": "Pse gjethet duken të gjelbra",
+      "subtopic": "Pse gjethet duken të gjelbra",
+      "title": "Pse gjethet duken të gjelbra",
+      "content": "Pigmentet thithin pjesë të caktuara të spektrit të dritës dhe pasqyrojnë pjesë të tjera. Gjethet duken të gjelbra sepse pasqyrojnë dritën e gjelbër.",
+      "keywords": [
+        "gjethet",
+        "gjelbra",
+        "pigmente",
+        "dritë"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 52,
+      "sourceLocator": "PDF page 52",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Pse gjethet duken të gjelbra?"
+    },
+    {
+      "id": "bio_enzymes",
+      "topic": "Enzimat dhe qendra aktive",
+      "subtopic": "Enzimat dhe qendra aktive",
+      "title": "Enzimat dhe qendra aktive",
+      "content": "Enzimat përshpejtojnë reaksionet kimike. Materiali shpjegon enzimat proteinike përmes modelit çelës–bravë: substrati lidhet me një pjesë të enzimës të quajtur qendër aktive, forma e së cilës përputhet me të. Si shembull përmendet amilaza, e cila te bimët shpërbën amidonin në maltozë.",
+      "keywords": [
+        "enzim",
+        "substrat",
+        "qendra aktive",
+        "amilaz"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 46,
+      "sourceLocator": "PDF page 46",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page.",
+      "demoQuestion": "Çka janë enzimat?"
+    },
+    {
+      "id": "bio_photosynthesis_scope",
+      "topic": "Fotosinteza në kurrikulën e shkencave natyrore",
+      "subtopic": "Fotosinteza në kurrikulën e shkencave natyrore",
+      "title": "Fotosinteza në kurrikulën e shkencave natyrore",
+      "content": "Fotosinteza renditet si koncept i fushës së shkencave natyrore në Kurrikulën Bërthamë 2016 për gjimnazet X–XII. Kjo është dëshmi e fushës kurrikulare, jo shpjegim i mekanizmit dhe jo garanci se pyetja do të jetë në provimin aktual.",
+      "keywords": [
+        "fotosintez",
+        "photosynthesis",
+        "photosynthese",
+        "fotosynthese",
+        "kurrikulë"
+      ],
+      "sourceId": "kosovo_core2016",
+      "sourcePage": 61,
+      "sourceLocator": "PDF page 61",
+      "curriculumRelevant": true,
+      "curriculumNote": "Upper-secondary Kosovo teaching material; not a claim about the current exam.",
+      "evidenceRole": "curriculum-scope",
+      "verified": true,
+      "reviewedAt": "2026-09-24",
+      "reviewNote": "Original short paraphrase checked against the cited PDF page; page is the physical PDF page, not the printed page."
+    },
+    {
+      "id": "bio_energy",
+      "topic": "Energjia dhe ATP-ja në qelizë",
+      "subtopic": "Energjia dhe ATP-ja në qelizë",
+      "title": "Energjia dhe ATP-ja në qelizë",
+      "content": "Energjia është aftësi për të kryer punë ose për të sjellë ndryshime. Në organizmat e gjallë, energjia e dritës mund të shndërrohet në energji kimike; gjatë frymëmarrjes qelizore energjia e lëndëve ushqyese lidhet me ATP-në. Qeliza e përdor energjinë e lidhur me grupet fosfate të ATP-së për të kryer punë.",
+      "keywords": [
+        "energji",
+        "ATP",
+        "punë"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 50,
+      "sourceLocator": "PDF page 50",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Çfarë roli ka ATP-ja në qelizë?"
+    },
+    {
+      "id": "bio_glycolysis",
+      "topic": "Glikoliza",
+      "subtopic": "Glikoliza",
+      "title": "Glikoliza",
+      "content": "Glikoliza është shpërbërja e glukozës dhe nuk kërkon praninë e oksigjenit. Molekula me gjashtë atome karboni ndahet në dy përbërje me nga tri atome karboni, të cilat shndërrohen në acid piruvik. Gjatë hapave të përshkruar formohet NADH dhe prodhohet ATP; pjesa hyrëse e procesit përdor grupe fosfate nga ATP-ja.",
+      "keywords": [
+        "glikolizë",
+        "glikoliza",
+        "glukozë",
+        "piruvik"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 61,
+      "sourceLocator": "PDF page 61",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Qka osht glikoliza?"
+    },
+    {
+      "id": "bio_symbiosis",
+      "topic": "Simbioza me baktere kemosintetike",
+      "subtopic": "Simbioza me baktere kemosintetike",
+      "title": "Simbioza me baktere kemosintetike",
+      "content": "Disa organizma shumëqelizorë jetojnë në marrëdhënie simbiotike me baktere kemosintetike. Shembulli në material janë krimbat gjigantë në formë tubi: ata strehojnë baktere që i furnizojnë me sheqerna dhe aminoacide. Kështu, bakteret shërbejnë si burim i pjesshëm energjie për organizmin që i strehon.",
+      "keywords": [
+        "simbiozë",
+        "kemosintetike",
+        "krimba"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 58,
+      "sourceLocator": "PDF page 58",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Çfarë shembulli ka për simbiozën me baktere kemosintetike?"
+    },
+    {
+      "id": "bio_crosses",
+      "topic": "Kryqëzimi monohibrid dhe dihibrid",
+      "subtopic": "Kryqëzimi monohibrid dhe dihibrid",
+      "title": "Kryqëzimi monohibrid dhe dihibrid",
+      "content": "Kryqëzimi monohibrid shqyrton prindër që dallohen për një tipar, për shembull ngjyrën e luleve. Kryqëzimi dihibrid shqyrton dy tipare. Në eksperimentet e përshkruara për Mendelin përdoret bizelja, Pisum sativum. Dallimi kryesor mes këtyre kryqëzimeve është numri i tipareve që studiohen.",
+      "keywords": [
+        "monohibrid",
+        "dihibrid",
+        "kryqëzim"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 76,
+      "sourceLocator": "PDF page 76",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Cili është dallimi mes kryqëzimit monohibrid dhe dihibrid?"
+    },
+    {
+      "id": "bio_dominance",
+      "topic": "Tipari dominant dhe recesiv",
+      "subtopic": "Tipari dominant dhe recesiv",
+      "title": "Tipari dominant dhe recesiv",
+      "content": "Në shembullin mendelian të materialit, tipari që shfaqet te hibridët e brezit të parë F1 quhet zotërues ose dominant. Tipari që nuk shfaqet në këtë kryqëzim quhet i fshehtë ose recesiv. Kjo përshkruan modelin e zotërimit të tipareve në shembullin e dhënë, jo çdo mënyrë trashëgimie.",
+      "keywords": [
+        "dominant",
+        "recesiv",
+        "tipari",
+        "zotërues"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 76,
+      "sourceLocator": "PDF page 76",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Qka osht tipari dominant dhe recesiv?"
+    },
+    {
+      "id": "bio_phenotype",
+      "topic": "Fenotipi dhe mjedisi",
+      "subtopic": "Fenotipi dhe mjedisi",
+      "title": "Fenotipi dhe mjedisi",
+      "content": "Fenotipi ndikohet nga ndërveprimi i gjenotipit me mjedisin. Një shembull në material është dhelpra arktike, që paraqitet me gëzof të bardhë në dimër dhe të errët në verë. Shembulli përdoret për të diskutuar si mund të ndryshojë pamja e organizmit në kushte të ndryshme mjedisore.",
+      "keywords": [
+        "fenotip",
+        "gjenotip",
+        "mjedis",
+        "dhelpra"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 92,
+      "sourceLocator": "PDF page 92",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Si ndikon mjedisi në fenotip?"
+    },
+    {
+      "id": "bio_transcription",
+      "topic": "Transkriptimi",
+      "subtopic": "Transkriptimi",
+      "title": "Transkriptimi",
+      "content": "Gjatë transkriptimit, informacioni i ADN-së kopjohet në ARN mesazhere, mARN. Transkriptimi ndjek çiftimin e bazave, me ndryshimin se uracili çiftohet me adeninën. mARN-ja e formuar lidhet me ribozomin dhe shërben si udhëzim për renditjen e aminoacideve gjatë sintezës së proteinës.",
+      "keywords": [
+        "transkriptim",
+        "transkriptimi",
+        "mARN",
+        "ADN"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 98,
+      "sourceLocator": "PDF page 98",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Çka është transkriptimi?"
+    },
+    {
+      "id": "bio_genetic_code",
+      "topic": "Kodi gjenetik",
+      "subtopic": "Kodi gjenetik",
+      "title": "Kodi gjenetik",
+      "content": "Kodi gjenetik lidh kodonet me aminoacidet. Shumicës së aminoacideve u përgjigjet më shumë se një kodon; kjo quhet degjenerim i kodit. Një kodon që kodon aminoacid përcakton një aminoacid të caktuar: për shembull UUU kodon fenilalaninën, ndërsa ACG treoninën.",
+      "keywords": [
+        "kod gjenetik",
+        "kodi gjenetik",
+        "kodon",
+        "degjenerim"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 100,
+      "sourceLocator": "PDF page 100",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Çka do të thotë se kodi gjenetik është i degjeneruar?"
+    },
+    {
+      "id": "bio_translation",
+      "topic": "Translatimi dhe antikodoni",
+      "subtopic": "Translatimi dhe antikodoni",
+      "title": "Translatimi dhe antikodoni",
+      "content": "Translatimi, ose përkthimi i informacionit në proteinë, zhvillohet në citoplazmë me pjesëmarrjen e ribozomeve dhe ARN-së transportuese. tARN-ja transporton një aminoacid të caktuar dhe ka një antikodon. Antikodoni është një renditje prej tri nukleotidesh, komplementare me një kodon të mARN-së.",
+      "keywords": [
+        "translatim",
+        "translatimi",
+        "antikodon",
+        "tARN"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 102,
+      "sourceLocator": "PDF page 102",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Ma shpjego translatimin dhe antikodonin."
+    },
+    {
+      "id": "bio_luciferase",
+      "topic": "Luçiferaza te xixëllonjat",
+      "subtopic": "Luçiferaza te xixëllonjat",
+      "title": "Luçiferaza te xixëllonjat",
+      "content": "Xixëllonjat kanë qeliza që prodhojnë enzimën luçiferazë. Kjo enzimë drejton një reaksion kimik që prodhon dritë. Shembulli tregon lidhjen ndërmjet një proteine me funksion enzimatik dhe një dukurie të dukshme te organizmi.",
+      "keywords": [
+        "luçiferazë",
+        "xixëllonjat",
+        "dritë"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 102,
+      "sourceLocator": "PDF page 102",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Pse xixëllonjat bëjnë dritë?"
+    },
+    {
+      "id": "bio_gradualism",
+      "topic": "Gradualizmi",
+      "subtopic": "Gradualizmi",
+      "title": "Gradualizmi",
+      "content": "Gradualizmi është modeli sipas të cilit ndryshimet graduale gjatë një kohe të gjatë çojnë në formimin e llojeve. Materiali e krahason këtë ide me qëndrimin se ritmi i evolucionit nuk është gjithmonë i njëjtë. Pra, tema ka të bëjë me shpejtësinë dhe mënyrën e grumbullimit të ndryshimeve evolutive.",
+      "keywords": [
+        "gradualizëm",
+        "gradualizmi",
+        "evolucion"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 134,
+      "sourceLocator": "PDF page 134",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Qka osht gradualizmi?"
+    },
+    {
+      "id": "bio_species",
+      "topic": "Lloji biologjik",
+      "subtopic": "Lloji biologjik",
+      "title": "Lloji biologjik",
+      "content": "Sipas konceptit biologjik të llojit të përdorur në material, një lloj përfshin organizma që mund të kryqëzohen natyrshëm ndërmjet tyre dhe të japin pasardhës pjellorë. Grupet e tilla janë të izoluara në riprodhim nga grupe të tjera të ngjashme.",
+      "keywords": [
+        "lloj",
+        "lloji",
+        "biologjik",
+        "pjellorë"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 138,
+      "sourceLocator": "PDF page 138",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Çka kuptohet me lloj biologjik?"
+    },
+    {
+      "id": "bio_hardy_weinberg",
+      "topic": "Ekuilibri Hardi–Veinberg",
+      "subtopic": "Ekuilibri Hardi–Veinberg",
+      "title": "Ekuilibri Hardi–Veinberg",
+      "content": "Sipas përmbledhjes së ligjit Hardi–Veinberg në material, kur një popullatë është në ekuilibër dhe mungojnë faktorët që e prishin atë, shpeshtitë relative të aleleve ruhen të pandryshuara në breznitë pasardhëse. Pohimi vlen nën kushtet e ekuilibrit, jo për çdo popullatë në çdo rrethanë.",
+      "keywords": [
+        "hardi",
+        "veinberg",
+        "hardy",
+        "weinberg",
+        "ekuilibër",
+        "alele"
+      ],
+      "sourceId": "albas_bio11",
+      "sourcePage": 140,
+      "sourceLocator": "PDF page 140",
+      "curriculumRelevant": true,
+      "curriculumNote": "Traceable upper-secondary educational content; not current exam coverage.",
+      "evidenceRole": "explanation",
+      "verified": true,
+      "reviewedAt": "2026-09-25",
+      "reviewNote": "Paraphrased from explicit educational content on the cited physical PDF page. Only explicit statements retained; unanswered questions and inaccurate adjacent claims excluded.",
+      "demoQuestion": "Çfarë thotë ligji Hardi–Veinberg?"
+    }
+  ]
+}
