@@ -4,7 +4,13 @@ import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 export const SUBJECTS = ['Matematikë', 'Gjuhë Shqipe', 'Anglisht', 'Gjermanisht', 'TIK', 'Histori', 'Gjeografi', 'Kimi', 'Biologji'];
 export const SOURCE_TYPES = ['official-kosovo-matura', 'official-kosovo-curriculum', 'kosovo-educational-material', 'official-kosovo-matura-historical', 'trusted-external-reference', 'unclassified'];
-const moduleDataRoot = fileURLToPath(new URL('../data/', import.meta.url));
+let moduleDataRoot;
+try {
+  moduleDataRoot = fileURLToPath(new URL('../data/', import.meta.url));
+} catch {
+  // Bundled Netlify Functions can lose a usable import.meta.url; fall back to a cwd-relative path.
+  moduleDataRoot = resolve(process.cwd(), 'server/data');
+}
 const bundledDataRoot = resolve(process.cwd(), 'server/data');
 export const DATA_ROOT = existsSync(resolve(moduleDataRoot, 'knowledge/manifest.json'))
   ? moduleDataRoot
