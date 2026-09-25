@@ -1,10 +1,14 @@
-import { readFileSync, realpathSync } from 'node:fs';
+import { existsSync, readFileSync, realpathSync } from 'node:fs';
 import { resolve, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 export const SUBJECTS = ['Matematikë', 'Gjuhë Shqipe', 'Anglisht', 'Gjermanisht', 'TIK', 'Histori', 'Gjeografi', 'Kimi', 'Biologji'];
 export const SOURCE_TYPES = ['official-kosovo-matura', 'official-kosovo-curriculum', 'kosovo-educational-material', 'official-kosovo-matura-historical', 'trusted-external-reference', 'unclassified'];
-export const DATA_ROOT = fileURLToPath(new URL('../data/', import.meta.url));
+const moduleDataRoot = fileURLToPath(new URL('../data/', import.meta.url));
+const bundledDataRoot = resolve(process.cwd(), 'server/data');
+export const DATA_ROOT = existsSync(resolve(moduleDataRoot, 'knowledge/manifest.json'))
+  ? moduleDataRoot
+  : bundledDataRoot;
 const nonempty = value => typeof value === 'string' && value.trim().length > 0;
 const read = path => JSON.parse(readFileSync(path, 'utf8').replace(/^\uFEFF/, ''));
 const fail = (condition, message) => { if (!condition) throw new Error(message); };
@@ -40,7 +44,12 @@ function validateSource(s, dataRoot) {
     fail(s.originalFile.startsWith('source/') && /\.(pdf|docx|md)$/i.test(s.originalFile), `${s.id}: invalid raw source file`);
     const path = safeFile(dataRoot, s.originalFile);
     fail(/^[a-f0-9]{64}$/.test(s.sha256), `${s.id}: source hash required`);
-    fail(createHash('sha256').update(readFileSync(path)).digest('hex') === s.sha256, `${s.id}: raw source changed since review`);
+    const original = readFileSync(path);
+    // Git may check out reviewed Markdown with Windows CRLF line endings.
+    const hashInput = s.originalFile.endsWith('.md')
+      ? original.toString('utf8').replace(/\r\n/g, '\n')
+      : original;
+    fail(createHash('sha256').update(hashInput).digest('hex') === s.sha256, `${s.id}: raw source changed since review`);
   }
   fail(s.url !== null || s.originalFile !== null, `${s.id}: source needs a real locator`);
 }

@@ -7,7 +7,21 @@ import { aiConfigured } from './services/aiService.js';
 export function createApp({ answer } = {}) {
   const app = express();
   app.disable('x-powered-by');
+  app.use((req, res, next) => {
+    const origin = req.get('origin');
+    if (origin === 'http://localhost:5173' || origin === 'http://127.0.0.1:5173') {
+      res.set('Access-Control-Allow-Origin', origin);
+      res.set('Vary', 'Origin');
+      res.set('Access-Control-Allow-Headers', 'Content-Type');
+      res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+      if (req.method === 'OPTIONS') return res.sendStatus(204);
+    }
+    next();
+  });
   app.use(express.json({ limit: '12kb' }));
+  app.get('/api/health', (req, res) => {
+    res.json({ ok: true, service: 'MaturaAI' });
+  });
   app.get('/api/status', (req, res) => {
     res.json({
       aiConfigured: aiConfigured(),

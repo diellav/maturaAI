@@ -2,6 +2,10 @@ import React, { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import './style.css';
 
+const API_BASE_URL = import.meta.env.DEV
+  ? 'http://localhost:3001/api'
+  : '/api';
+
 const subjects = ['Matematikë', 'Gjuhë Shqipe', 'Anglisht', 'Gjermanisht', 'TIK', 'Histori', 'Gjeografi', 'Kimi', 'Biologji'];
 const examples = [
   { subject: 'Biologji', question: 'Ma shpjego fotosintezën', icon: 'leaf' },
@@ -38,7 +42,7 @@ function Icon({ name, size = 20, ...props }) {
 }
 
 async function request(path, body, signal) {
-  const response = await fetch(`/api${path}`, {
+  const response = await fetch(`${API_BASE_URL}${path}`, {
     signal,
     ...(body ? { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) } : {}),
   });

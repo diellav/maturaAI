@@ -16,6 +16,10 @@ npm run dev -- --host 127.0.0.1
 
 Frontend: http://127.0.0.1:5173/ · API: http://127.0.0.1:3001/api/status
 
+The development frontend calls the local API at `http://localhost:3001/api`;
+the server allows only the local Vite development origins. Production uses
+same-origin `/api` routes through Netlify.
+
 With no provider configured, the UI explicitly displays curated source notes, not a simulated AI answer. To enable generation, copy `server/.env.example` to `server/.env` and fill `LLM_API_URL`, `LLM_API_KEY`, and `LLM_MODEL` for a compatible chat-completions provider supporting JSON responses. Keep credentials local. Restart the backend after configuration or data changes. Provider failure falls back to clearly labelled reference notes.
 
 ## Data and provenance
@@ -47,6 +51,27 @@ npm run build
 `demo:data` selects supported questions from actual chunk metadata and tests five subject groups, concise mode, NBA refusal, and real coverage gaps. It deliberately uses local reference mode to be reproducible without credentials; it does not certify a live LLM provider.
 
 The original 23 regression tests remain, using the four migrated references as a fixed fixture. Added tests cover manifest integrity, provenance, source resolution, ranking, evidence roles, concise follow-ups, HTTP source links and the final dataset.
+
+## Deploy to Netlify
+
+The repository root is the Netlify base directory. `netlify.toml` builds the
+Vite app into `client/dist`, packages the existing Express app as the `api`
+function, includes `server/data/**` in its bundle, and rewrites `/api/*` to that
+function. Retrieval, tutoring, and knowledge-base files remain server-side.
+`GET /api/health` returns `{ "ok": true, "service": "MaturaAI" }`.
+
+Connect this repository in Netlify and use the settings from `netlify.toml`.
+For LLM answers, add `LLM_API_URL`, `LLM_API_KEY`, and `LLM_MODEL` as Netlify
+site environment variables available to Functions. Never add them as `VITE_*`
+variables or commit them to the repository. If they are unset, the curated
+verified-source reference mode continues to work. `Verified Sources Only`
+remains ON by default.
+
+Before deploying, run `npm install`, `npm run build`, `npm test`,
+`npm run validate:data`, and `npm run demo:data`. Deploy through the connected
+Git repository or run `npx netlify deploy --build` after linking the site with
+`npx netlify init`. After deployment, verify `/api/health`, `/api/status`, and
+a source-backed question on the deployed site.
 
 ## Optional future ingestion
 
